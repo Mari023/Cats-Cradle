@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+    <TextView
+            android:text="@string/question0"
+            android:layout_width="600dp"
+            android:layout_height="150dp"
+            android:id="@+id/question"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.498" app:layout_constraintVertical_bias="0.0"
+            android:layout_marginTop="10dp"/>
+    <Button
+            android:text="@string/answer0d"
+            android:layout_width="300dp"
+            android:layout_height="80dp" android:id="@+id/answerD"
+            tools:visibility="visible" android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="20dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="340dp"/>
+    <Button
+            android:text="@string/answer0a"
+            android:layout_width="300dp"
+            android:layout_height="80dp" android:id="@+id/answerA"
+            tools:visibility="visible" android:visibility="visible"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintBottom_toTopOf="@+id/answerC"
+            app:layout_constraintTop_toBottomOf="@+id/question"
+            android:layout_marginBottom="20dp" app:layout_constraintVertical_bias="1.0"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="20dp" android:layout_marginEnd="340dp"/>
+    <Button
+            android:text="@string/answer0c"
+            android:layout_width="300dp"
+            android:layout_height="80dp" android:id="@+id/answerC"
+            tools:visibility="visible" android:visibility="visible"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="20dp" android:layout_marginEnd="340dp"
+    />
+    <Button
+            android:text="@string/answer0b"
+            android:layout_width="300dp"
+            android:layout_height="80dp" android:id="@+id/answerB"
+            tools:visibility="visible" android:visibility="visible"
+            app:layout_constraintBottom_toTopOf="@+id/answerD" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/question"
+            android:layout_marginBottom="20dp" app:layout_constraintVertical_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginEnd="20dp" android:layout_marginStart="340dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

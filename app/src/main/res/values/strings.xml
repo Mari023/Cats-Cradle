@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cat\'s Cradle</string>
+    <string name="question0">question0</string>
+    <string name="answer0a">answer0a</string>
+    <string name="answer0b">answer0b</string>
+    <string name="answer0c">answer0c</string>
+    <string name="answer0d">answer0d</string>
+    <string name="question1">question1</string>
+    <string name="answer1a">answer1a</string>
+    <string name="answer1b">answer1b</string>
+    <string name="answer1c">answer1c</string>
+    <string name="answer1d">answer1d</string>
+</resources>
