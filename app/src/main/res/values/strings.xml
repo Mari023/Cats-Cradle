@@ -10,4 +10,9 @@
     <string name="answer1b">answer1b</string>
     <string name="answer1c">answer1c</string>
     <string name="answer1d">answer1d</string>
+    <string name="question2">question2</string>
+    <string name="answer2a">answer2a</string>
+    <string name="answer2b">answer2b</string>
+    <string name="answer2c">answer2c</string>
+    <string name="answer2d">answer2d</string>
 </resources>
