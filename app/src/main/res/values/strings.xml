@@ -15,4 +15,9 @@
     <string name="answer2b">answer2b</string>
     <string name="answer2c">answer2c</string>
     <string name="answer2d">answer2d</string>
+    <string name="question3">It\'s raining cats and dogs</string>
+    <string name="answer3a">It\'s raining very heavily</string>
+    <string name="answer3b">There are mammals falling from the sky</string>
+    <string name="answer3c">The rain is meowing and barking</string>
+    <string name="answer3d">The rain is sweet</string>
 </resources>
