@@ -28,6 +28,12 @@ public class MainActivity extends AppCompatActivity {
         answerD = findViewById(R.id.answerD);
         question = findViewById(R.id.question);
 
+        question.setTextSize(22);
+        answerA.setTextSize(20);
+        answerB.setTextSize(20);
+        answerC.setTextSize(20);
+        answerD.setTextSize(20);
+
         setup(new Random().nextInt(questions));
 
         answerA.setOnClickListener(new View.OnClickListener() {
