@@ -1,23 +1,139 @@
 <resources>
     <string name="app_name">Cat\'s Cradle</string>
-    <string name="question0">question0</string>
-    <string name="answer0a">answer0a</string>
-    <string name="answer0b">answer0b</string>
-    <string name="answer0c">answer0c</string>
-    <string name="answer0d">answer0d</string>
-    <string name="question1">question1</string>
-    <string name="answer1a">answer1a</string>
-    <string name="answer1b">answer1b</string>
-    <string name="answer1c">answer1c</string>
-    <string name="answer1d">answer1d</string>
-    <string name="question2">question2</string>
-    <string name="answer2a">answer2a</string>
-    <string name="answer2b">answer2b</string>
-    <string name="answer2c">answer2c</string>
-    <string name="answer2d">answer2d</string>
-    <string name="question3">It\'s raining cats and dogs</string>
-    <string name="answer3a">It\'s raining very heavily</string>
-    <string name="answer3b">There are mammals falling from the sky</string>
-    <string name="answer3c">The rain is meowing and barking</string>
-    <string name="answer3d">The rain is sweet</string>
+
+    <string name="question0">It\'s raining cats and dogs</string>
+    <string name="answer0a">It\'s raining very heavily</string>
+    <string name="answer0b">There are mammals falling from the sky</string>
+    <string name="answer0c">The rain is meowing and barking</string>
+    <string name="answer0d">The rain is sweet</string>
+
+    <string name="question1">To smell a rat</string>
+    <string name="answer1a">Lunte riechen</string>
+    <string name="answer1b">Einen schlechten Geruch wahrnehmen</string>
+    <string name="answer1c">Einen Verräter in den eigenen Reihen vermuten</string>
+    <string name="answer1d">Ein gutes Geschäft wittern</string>
+
+    <string name="question2">To go rabbiting</string>
+    <string name="answer2a">Hasen jagen</string>
+    <string name="answer2b">Sich vermehren wie Kaninchen</string>
+    <string name="answer2c">Die Flucht ergreifen</string>
+    <string name="answer2d">Wie ein Hase hoppeln</string>
+
+    <string name="question3">To rat on s.o./to rat sb out</string>
+    <string name="answer3a">Jmd. Sitzenlassen, Jmd. Verpfeifen</string>
+    <string name="answer3b">Jmd. Ausbooten, Jmd. in einem Wettbewerb besiegen</string>
+    <string name="answer3c">Jmd. Beleidigen</string>
+    <string name="answer3d">Jmd. Wie eine Ratte behandeln</string>
+
+    <string name="question4">To do a runner</string>
+    <string name="answer4a">Die Fliege machen</string>
+    <string name="answer4b">Beim Pferderennen gewinnen</string>
+    <string name="answer4c">empty</string>
+    <string name="answer4d">empty</string>
+
+    <string name="question5">A red herring</string>
+    <string name="answer5a">Eine absichtlich falsch gelegte Spur</string>
+    <string name="answer5b">Ein seltenes Exemplar von etwas</string>
+    <string name="answer5c">Anglersprache: Ein Fisch, der zu klein ist und zurückgeworfen werden muss</string>
+    <string name="answer5d">Ein auffälliges Outfit auf dem roten Teppich</string>
+
+    <string name="question6">See you later, Alligator</string>
+    <string name="answer6a">sich von jemanden auf kindische Weise (für eine kurze Zeitspanne) verabschieden</string>
+    <string name="answer6b">sich einem Krokodil verabschieden</string>
+    <string name="answer6c">sich von einer Person verabschieden, die man für ein Krokodil hält</string>
+    <string name="answer6d">sich darauf freuen, später ein Krokodil zu sehen</string>
+
+    <string name="question7">Don´t look a gifted horse in the mouth</string>
+    <string name="answer7a">Einem geschenkten Pferd schaut man nicht ins Maul</string>
+    <string name="answer7b">Das geschenkte Pferd nicht zu sehr zu betrachten</string>
+    <string name="answer7c">Eine geschenkte Sache nicht zu hinterfragen</string>
+    <string name="answer7d">Ein Geschenk sollte man nicht anzweifeln</string>
+
+    <string name="question8">Early bird catches the worm</string>
+    <string name="answer8a">Der frühe Vogel fängt den Wurm</string>
+    <string name="answer8b">Ein Vogel, der morgens früh aufsteht, fängt mehr</string>
+    <string name="answer8c">Menschen, die früh aufstehen, sind erfolgreicher an einem Tag</string>
+    <string name="answer8d">Um möglichst produktiv zu sein, sollte man morgens rechtzeitig aufstehen</string>
+
+    <string name="question9">There are plenty other fish in the sea</string>
+    <string name="answer9a">Auf der Erde gibt es genügend Menschen/Dinge, die genauso toll/gut sein können wie der oder
+        das, was man verloren hat
+    </string>
+    <string name="answer9b">Es gibt genügend andere Fische im Meer</string>
+    <string name="answer9c">Fische werden nie ausgehen im Meer</string>
+    <string name="answer9d">Das Meer besteht nicht nur aus einer einzigen Fischart</string>
+
+    <string name="question10">Hold your horses</string>
+    <string name="answer10a">Mach mal langsam, immer mit der Ruhe</string>
+    <string name="answer10b">Halte deine Pferde fest</string>
+    <string name="answer10c">Pass auf deine Pferde auf</string>
+    <string name="answer10d">Unterschätze nicht die Geschwindigkeit von Pferde</string>
+
+    <string name="question11">Ram-raiding</string>
+    <string name="answer11a">Ladendiebstahl, bei dem ein gestohlenes Auto als Rammbock dient</string>
+    <string name="answer11b">Überfall auf eine Schaffarm, bei dem Widder gestohlen werden</string>
+    <string name="answer11c">Mittelalterliches Turnierelement</string>
+    <string name="answer11d">Fahrweise beim Autoscooterfahren, bei der die Anderen gerammt werden</string>
+
+    <string name="question12">Red in tooth and claw</string>
+    <string name="answer12a">blutrünstig, grausam</string>
+    <string name="answer12b">Von der Maul- und Klauenseuche befallen</string>
+    <string name="answer12c">Bis auf die Zähne bewaffnet</string>
+    <string name="answer12d">Eine rote Kriegsbemalung tragend</string>
+
+    <string name="question13">There\'s no room to swing a cat.</string>
+    <string name="answer13a">Es ist so eng, dass man sich kaum umdrehen kann</string>
+    <string name="answer13b">Man soll das Kind nicht mit dem Bade ausschütten</string>
+    <string name="answer13c">Berühmtes Zitat eines Tierschützers</string>
+    <string name="answer13d">Es gibt keinen Handlungsspielraum</string>
+
+    <string name="question14">To ruffle sb\'s/a few feathers</string>
+    <string name="answer14a">Jmd verärgern</string>
+    <string name="answer14b">Sich mit fremden Federn schmücken</string>
+    <string name="answer14c">Kein gutes Haar an jmd lassen</string>
+    <string name="answer14d">Beim Varieté : Jemandes Federboa (seine Rolle) stehlen</string>
+
+    <string name="question15">Running Dog</string>
+    <string name="answer15a">Ein Mitläufer</string>
+    <string name="answer15b">Ein Häftling auf der Flucht</string>
+    <string name="answer15c">Der Favorit beim Pferderennen</string>
+    <string name="answer15d">Ein Hund, der Schafe hütet</string>
+
+    <string name="question16">To rabbit on (about sb/sth)</string>
+    <string name="answer16a">Über etwas quasseln, schwafeln</string>
+    <string name="answer16b">Über jmd schlecht reden, lästern</string>
+    <string name="answer16c">So schnell reden wie ein Hase läuft</string>
+    <string name="answer16d">Jmd in der Luft zerreißen, ein Thema zerpflücken</string>
+
+    <string name="question17">Rat pack</string>
+    <string name="answer17a">Paparazzi</string>
+    <string name="answer17b">Korrupte Politiker</string>
+    <string name="answer17c">Ein Päckchen Rattengift</string>
+    <string name="answer17d">Umgangssprachlich: Verein der Kleinnagetierfreunde</string>
+
+    <string name="question18">Ravenhaired</string>
+    <string name="answer18a">schwarzhaarig</string>
+    <string name="answer18b">Bezeichnung des Federkleides von Raben-, Krähenvögeln</string>
+    <string name="answer18c">Als Adjektiv für eine Komödie: rabenschwarz</string>
+    <string name="answer18d">Klug wie ein Rabe</string>
+
+    <string name="question19">Road hog</string>
+    <string name="answer19a">Ein Verkehrsrowdy</string>
+    <string name="answer19b">Ein Igel auf der Fahrbahn</string>
+    <string name="answer19c">Jmd, der seinen Müll auf die Straße wirft</string>
+    <string name="answer19d">Hans Dampf in allen Gassen</string>
+
+    <string name="question20">To be in the doghouse</string>
+    <string name="answer20a">In Ungnade gefallen sein</string>
+    <string name="answer20b">In der Zwickmühle sitzen</string>
+    <string name="answer20c">Wie ein Hund hausen</string>
+    <string name="answer20d">Einen Hund als besten Freund haben</string>
+
+    //Vorlage
+
+    <string name="question">empty</string>
+    <string name="answera">empty</string>
+    <string name="answerb">empty</string>
+    <string name="answerc">empty</string>
+    <string name="answerd">empty</string>
 </resources>
