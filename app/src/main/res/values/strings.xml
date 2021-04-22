@@ -49,7 +49,7 @@
     <string name="answer7c">Eine geschenkte Sache nicht zu hinterfragen</string>
     <string name="answer7d">Ein Geschenk sollte man nicht anzweifeln</string>
 
-    <string name="question8">Early bird catches the worm</string>
+    <string name="question8">The early bird catches the worm</string>
     <string name="answer8a">Der frühe Vogel fängt den Wurm</string>
     <string name="answer8b">Ein Vogel, der morgens früh aufsteht, fängt mehr</string>
     <string name="answer8c">Menschen, die früh aufstehen, sind erfolgreicher an einem Tag</string>
@@ -128,6 +128,54 @@
     <string name="answer20b">In der Zwickmühle sitzen</string>
     <string name="answer20c">Wie ein Hund hausen</string>
     <string name="answer20d">Einen Hund als besten Freund haben</string>
+
+    <string name="question21">Not to have a dog\'s chance</string>
+    <string name="answer21a">Gar keine Chance haben</string>
+    <string name="answer21b">Eine letzte Chance bekommen</string>
+    <string name="answer21c">Seinem Hund eine Chance geben</string>
+    <string name="answer21d">Seinem Hund keine Leckerlies geben</string>
+
+    <string name="question22">To be a dead duck</string>
+    <string name="answer22a">Eine Schnapsidee</string>
+    <string name="answer22b">Keine Chance mehr haben</string>
+    <string name="answer22c">Komisch sein</string>
+    <string name="answer22d">Aussehen wie eine tote Ente</string>
+
+    <string name="question23">A dead bee makes no honey</string>
+    <string name="answer23a">Aus nichts wird nichts</string>
+    <string name="answer23b">Süß wie Honig sein</string>
+    <string name="answer23c">Es wird bald Winter</string>
+    <string name="answer23d">Bienen produzieren Honig</string>
+
+    <string name="question24">A dog\'s breakfast / dinner</string>
+    <string name="answer24a">Etwas schlecht gemacht haben</string>
+    <string name="answer24b">Zu viel essen</string>
+    <string name="answer24c">Nur Fleisch essen</string>
+    <string name="answer24d">Ohne Manieren essen</string>
+
+    <string name="question25">A dog\'s life</string>
+    <string name="answer25a">Ein schlechtes Leben haben</string>
+    <string name="answer25b">Ein gutes Leben haben</string>
+    <string name="answer25c">Faul sein</string>
+    <string name="answer25d">Zu viel Fleisch zu essen</string>
+
+    <string name="question26">Every dog has his / its day</string>
+    <string name="answer26a">Jeder hat mal einen guten Tag</string>
+    <string name="answer26b">Jeden Tag spazieren gehen</string>
+    <string name="answer26c">Einen schlechten Tag haben</string>
+    <string name="answer26d">Spaß haben</string>
+
+    <string name="question27">Don\'t count the chicken before they are dead</string>
+    <string name="answer27a">Du sollst den Tag nicht vor dem Abend loben</string>
+    <string name="answer27b">Du sollst nicht alles auf einmal machen</string>
+    <string name="answer27c">Du sollst sparsam sein</string>
+    <string name="answer27d">Du sollst dir nicht zu viele Hühner kaufen</string>
+
+    <string name="question28">The elephant in the room</string>
+    <string name="answer28a">Ein offensichtliches Problem, was von niemandem angesprochen wird</string>
+    <string name="answer28b">Der Elefant im Porzellanladen</string>
+    <string name="answer28c">Dick sein</string>
+    <string name="answer28d">Eine große Nase haben</string>
 
     //Vorlage
 
