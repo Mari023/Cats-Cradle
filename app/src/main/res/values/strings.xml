@@ -177,6 +177,36 @@
     <string name="answer28c">Dick sein</string>
     <string name="answer28d">Eine große Nase haben</string>
 
+    <string name="question29">To ape / apeshit</string>
+    <string name="answer29a">Ausflippen</string>
+    <string name="answer29b">Ärger mit seiner App haben</string>
+    <string name="answer29c">Mit einer App spielen</string>
+    <string name="answer29d">ein Affe werden</string>
+
+    <string name="question30">To back the wrong horse</string>
+    <string name="answer30a">Jemanden nutzlos unterstützen (ohne Erfolg)</string>
+    <string name="answer30b">Das falsche Pferd satteln</string>
+    <string name="answer30c">Auf dem Rücken des anderen Pferdes sitzen</string>
+    <string name="answer30d">Ein nicht passendes Pferd zurückgehen lassen</string>
+
+    <string name="question31">Go to the dogs!</string>
+    <string name="answer31a">Sehr schlecht gelaunt sein/in einer schlechten Stimmung sein</string>
+    <string name="answer31b">Geh zu den Hunden</string>
+    <string name="answer31c">Jemanden etwas schlechtes wünschen</string>
+    <string name="answer31d">Zugrunde gehen</string>
+
+    <string name="question32">Even a worm will return</string>
+    <string name="answer32a">Selbst ein Schwächling wird es irgendwann schaffen zurückzukehren</string>
+    <string name="answer32b">Selbst ein Wurm wird wiederkommen</string>
+    <string name="answer32c">Wenn der Wurm nicht wiederkehrt, wer dann?</string>
+    <string name="answer32d">Auch ein Wurm wird umkehren</string>
+
+    <string name="question33">To get sb\'s goat</string>
+    <string name="answer33a">Jemanden nerven</string>
+    <string name="answer33b">Die Ziege jmdn. bekommen</string>
+    <string name="answer33c">Eine Ziege von jemanden werden</string>
+    <string name="answer33d">Das Sternzeichen des Steinbockes erhalten</string>
+
     //Vorlage
 
     <string name="question">empty</string>

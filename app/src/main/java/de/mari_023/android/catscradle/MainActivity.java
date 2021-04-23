@@ -11,7 +11,7 @@ import java.util.*;
 
 public class MainActivity extends AppCompatActivity {
 
-    final int questions = 21;
+    final int questions = 34;
     Button answerA, answerB, answerC, answerD;
     TextView question;
     Answer correct;
