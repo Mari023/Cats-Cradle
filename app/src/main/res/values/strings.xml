@@ -207,6 +207,102 @@
     <string name="answer33c">Eine Ziege von jemanden werden</string>
     <string name="answer33d">Das Sternzeichen des Steinbockes erhalten</string>
 
+    <string name="question34">in the saddle</string>
+    <string name="answer34a">in einer Machtposition</string>
+    <string name="answer34b">im Sattel sitzen</string>
+    <string name="answer34c">reiten können</string>
+    <string name="answer34d">im Sattel drin</string>
+
+    <string name="question35">crammed like sardines</string>
+    <string name="answer35a">eng aneinander gedrückt</string>
+    <string name="answer35b">wie die Fische im Wasser</string>
+    <string name="answer35c">so groß wie Sardinen</string>
+    <string name="answer35d">auf der Wasseroberfläche</string>
+
+    <string name="question36">what\'s sauce for the goose is sauce for the gander</string>
+    <string name="answer36a">was der eine darf, muss der andere auch dürfen</string>
+    <string name="answer36b">alle Gänse haben gleiche Möglichkeiten</string>
+    <string name="answer36c">was dem einen egal ist, ist dem anderen auch egal</string>
+    <string name="answer36d">alle Soßen schmecken gleich</string>
+
+    <string name="question37">to not say boo to a goose</string>
+    <string name="answer37a">schüchtern und sanft sein</string>
+    <string name="answer37b">Gänse soll man nicht erschrecken</string>
+    <string name="answer37c">mit Gänsen sprechen</string>
+    <string name="answer37d">schreckhaft sein</string>
+
+    <string name="question38">to behave like sheep</string>
+    <string name="answer38a">das machen, was alle machen</string>
+    <string name="answer38b">sich wie ein Schaf verhalten</string>
+    <string name="answer38c">Schafe hüten</string>
+    <string name="answer38d">mit den Schafen spielen</string>
+
+    <string name="question39">to separate the sheep from the goats</string>
+    <string name="answer39a">Menschen, die etwas können, von den anderen trennen</string>
+    <string name="answer39b">Ziegen und Schafe trennen</string>
+    <string name="answer39c">die Ziegen zu den Schafen stellen</string>
+    <string name="answer39d">Kinder und Erwachsene unterscheiden</string>
+
+    <string name="question40">to come out of your shell</string>
+    <string name="answer40a">weniger schüchtern sein und selbstbewusst auftreten</string>
+    <string name="answer40b">die Muschel verlassen</string>
+    <string name="answer40c">das Haus verlassen</string>
+    <string name="answer40d">eine Perle in der Muschel finden</string>
+
+    <string name="question41">to go into your shell</string>
+    <string name="answer41a">schüchtern werden und nicht gerne mit anderen reden</string>
+    <string name="answer41b">sich in ein Haus zurückziehen</string>
+    <string name="answer41c">sich ein gutes Versteck suchen</string>
+    <string name="answer41d">in seine Heimat zurückkehren</string>
+
+    <string name="question42">shooting fish in a barrel</string>
+    <string name="answer42a">etwas sehr einfach finden</string>
+    <string name="answer42b">gut zielen können</string>
+    <string name="answer42c">auf Fische schießen</string>
+    <string name="answer42d">etwas sehr schwer finden</string>
+
+    <string name="question43">a sitting duck</string>
+    <string name="answer43a">jemand, der einfach anzugreifen ist</string>
+    <string name="answer43b">jemand, der nur rumsitzt</string>
+    <string name="answer43c">jemand, der gerne schwimmt</string>
+    <string name="answer43d">eine Ente, die nicht laufen kann</string>
+
+    <string name="question44">a snake in the grass</string>
+    <string name="answer44a">jemand, der freundlich tut, aber hinerhältig ist</string>
+    <string name="answer44b">jemand, der sich gut verstecken kann</string>
+    <string name="answer44c">jemand, der auf der Lauer liegt</string>
+    <string name="answer44d">jemand, der sehr klein ist</string>
+
+    <string name="question45">like rats leaving a sinking ship</string>
+    <string name="answer45a">wenn jemand bei Problemen die anderen im Stich lässt und verschwindet</string>
+    <string name="answer45b">wenn jemand gezwungen ist ins Wasser zu springen</string>
+    <string name="answer45c">wenn jemand versucht Ratten zu verscheuchen</string>
+    <string name="answer45d">schnell wegrennen wie eine Ratte</string>
+
+    <string name="question46">empty</string>
+    <string name="answer46a">empty</string>
+    <string name="answer46b">empty</string>
+    <string name="answer46c">empty</string>
+    <string name="answer46d">empty</string>
+
+    <string name="question47">empty</string>
+    <string name="answer47a">empty</string>
+    <string name="answer47b">empty</string>
+    <string name="answer47c">empty</string>
+    <string name="answer47d">empty</string>
+
+    <string name="question48">empty</string>
+    <string name="answer48a">empty</string>
+    <string name="answer48b">empty</string>
+    <string name="answer48c">empty</string>
+    <string name="answer48d">empty</string>
+
+    <string name="question49">empty</string>
+    <string name="answer49a">empty</string>
+    <string name="answer49b">empty</string>
+    <string name="answer49c">empty</string>
+    <string name="answer49d">empty</string>
+
     //Vorlage
 
     <string name="question">empty</string>
