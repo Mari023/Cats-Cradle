@@ -2,10 +2,10 @@
     <string name="app_name">Cat\'s Cradle</string>
 
     <string name="question0">It\'s raining cats and dogs</string>
-    <string name="answer0a">It\'s raining very heavily</string>
-    <string name="answer0b">There are mammals falling from the sky</string>
-    <string name="answer0c">The rain is meowing and barking</string>
-    <string name="answer0d">The rain is sweet</string>
+    <string name="answer0a">Es regnet sehr stark</string>
+    <string name="answer0b">Viele verschiedene Dinge passieren gleichzeitig</string>
+    <string name="answer0c">Katzen und Hunde fallen vom Himmel</string>
+    <string name="answer0d">Es hagelt</string>
 
     <string name="question1">To smell a rat</string>
     <string name="answer1a">Lunte riechen</string>
@@ -28,8 +28,8 @@
     <string name="question4">To do a runner</string>
     <string name="answer4a">Die Fliege machen</string>
     <string name="answer4b">Beim Pferderennen gewinnen</string>
-    <string name="answer4c">empty</string>
-    <string name="answer4d">empty</string>
+    <string name="answer4c">Einen guten Lauf haben</string>
+    <string name="answer4d">Richtig Durchstarten</string>
 
     <string name="question5">A red herring</string>
     <string name="answer5a">Eine absichtlich falsch gelegte Spur</string>
@@ -279,29 +279,59 @@
     <string name="answer45c">wenn jemand versucht Ratten zu verscheuchen</string>
     <string name="answer45d">schnell wegrennen wie eine Ratte</string>
 
-    <string name="question46">empty</string>
-    <string name="answer46a">empty</string>
-    <string name="answer46b">empty</string>
-    <string name="answer46c">empty</string>
-    <string name="answer46d">empty</string>
+    <string name="question46">water off a duck\'s back</string>
+    <string name="answer46a">jemanden völlig kalt lassen</string>
+    <string name="answer46b">wasserfest sein</string>
+    <string name="answer46c">unbeirrbar seinen Weg gehen</string>
+    <string name="answer46d">unempfänglich für gute Ratschläge sein</string>
 
-    <string name="question47">empty</string>
-    <string name="answer47a">empty</string>
-    <string name="answer47b">empty</string>
-    <string name="answer47c">empty</string>
-    <string name="answer47d">empty</string>
+    <string name="question47">have a whale of a time</string>
+    <string name="answer47a">sich großartig amüsieren</string>
+    <string name="answer47b">sehr viel Zeit haben</string>
+    <string name="answer47c">eine Seereise machen</string>
+    <string name="answer47d">ein langes Leben haben</string>
 
-    <string name="question48">empty</string>
-    <string name="answer48a">empty</string>
-    <string name="answer48b">empty</string>
-    <string name="answer48c">empty</string>
-    <string name="answer48d">empty</string>
+    <string name="question48">come within a whisker of sth</string>
+    <string name="answer48a">etwas stößt einem beinahe zu</string>
+    <string name="answer48b">beinahe etwas berühren</string>
+    <string name="answer48c">bei einem Wettbewerb den zweiten Platz erreichen</string>
+    <string name="answer48d">etwas ahnen</string>
 
-    <string name="question49">empty</string>
-    <string name="answer49a">empty</string>
-    <string name="answer49b">empty</string>
-    <string name="answer49c">empty</string>
-    <string name="answer49d">empty</string>
+    <string name="question49">talk turkey</string>
+    <string name="answer49a">offen und unverblümt reden</string>
+    <string name="answer49b">in einer unverständlichen Sprache reden</string>
+    <string name="answer49c">undeutlich reden</string>
+    <string name="answer49d">um den heißen Brei herumreden</string>
+
+    <string name="question50">keep the wolf from the door</string>
+    <string name="answer50a">sich gerade so über Wasser halten</string>
+    <string name="answer50b">in Sicherheit leben</string>
+    <string name="answer50c">nicht auf Betrüger hereinfallen</string>
+    <string name="answer50d">als Einsiedler leben</string>
+
+    <string name="question51">a wolf in sheep\'s clothing</string>
+    <string name="answer51a">jemand, der einen schlechten Charakter hinter einem angenehmen Äußeren verbirgt</string>
+    <string name="answer51b">jemand, der sich unangemessen kleidet</string>
+    <string name="answer51c">ein übertrieben bescheidener Mensch</string>
+    <string name="answer51d">jemand, der unter einem Künstlernamen auftritt</string>
+
+    <string name="question52">like waving a red flag in front of a bull</string>
+    <string name="answer52a">jemanden absichtlich provozieren</string>
+    <string name="answer52b">sich leichtsinnig oder tollkühn verhalten</string>
+    <string name="answer52c">einer Gefahr ins Auge sehen</string>
+    <string name="answer52d">einen offensichtlichen Fehler machen</string>
+
+    <string name="question53">till the cow comes home</string>
+    <string name="answer53a">bis zum Abwinken</string>
+    <string name="answer53b">bevor es zu spät ist</string>
+    <string name="answer53c">bevor es Abend wird</string>
+    <string name="answer53d">solange man unbeobachtet ist</string>
+
+    <string name="question54">to get one\'s ducks in a row</string>
+    <string name="answer54a">sich gut organisiert haben</string>
+    <string name="answer54b">Macht auf andere ausüben</string>
+    <string name="answer54c">übertrieben ordentlich oder detailversessen sein</string>
+    <string name="answer54d">seinen Besitz in Sicherheit bringen</string>
 
     //Vorlage
 
