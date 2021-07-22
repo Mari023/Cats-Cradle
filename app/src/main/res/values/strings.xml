@@ -391,17 +391,11 @@
     <string name="answer64c">Ein einsamer Löwe</string>
     <string name="answer64d">Eine Einzelperson</string>
 
-    <string name="question65">In the dog`s house</string>
+    <string name="question65">In the dog\'s house</string>
     <string name="answer65a">Saustall</string>
     <string name="answer65b">Dreckiges Zimmer</string>
     <string name="answer65c">Es gibt Ärger</string>
     <string name="answer65d">Ein Komplott wird geplant</string>
-
-    <string name="question66">it is a dog´s life</string>
-    <string name="answer66a">ein miserables Leben führen</string>
-    <string name="answer66b">ein glückliches Leben haben</string>
-    <string name="answer66c">sich wie ein Hund fühlen</string>
-    <string name="answer66d">wie ein Hund leben</string>
 
     <string name="question67">to kill two birds with one stone</string>
     <string name="answer67a">zwei Fliegen mit einer Klappe schlagen</string>
@@ -409,7 +403,7 @@
     <string name="answer67c">Vogeljagd</string>
     <string name="answer67d">zwei Vögel mit einem Stein töten</string>
 
-    <string name="question68">It’s the last straw that breaks the camel’s back</string>
+    <string name="question68">It\'s the last straw that breaks the camel’s back</string>
     <string name="answer68a">Der Tropfen, der das Fass zum überlaufen bringt</string>
     <string name="answer68b">Kamele mit Stroh füttern</string>
     <string name="answer68c">Es ist der letzte Strohhalm, der dem Kamel den Rücken bricht</string>
@@ -432,6 +426,12 @@
     <string name="answer71b">ein schlechter Jäger sein</string>
     <string name="answer71c">schnell aber tolpatschig sein</string>
     <string name="answer71d">zu viel Zeit haben</string>
+
+    <string name="question66">missing</string>
+    <string name="answer66a">Joker</string>
+    <string name="answer66b">loose</string>
+    <string name="answer66c">loose</string>
+    <string name="answer66d">loose</string>
 
     //Vorlage
 
