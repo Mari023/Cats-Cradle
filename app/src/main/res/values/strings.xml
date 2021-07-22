@@ -363,37 +363,37 @@
     <string name="answer59c">Zirkustiger</string>
     <string name="answer59d">gestreiftes Kleidungsstück</string>
 
-    <string name="question60">A little bird told me</string><!-->Reihenfolge?</!-->
-    <string name="answer60a">Ein Vogel hat sich verirrt</string>
-    <string name="answer60b">Mir wurde etwas gesagt aber ich will nicht sagen von wem</string>
+    <string name="question60">A little bird told me</string>
+    <string name="answer60a">Mir wurde etwas gesagt aber ich will nicht sagen von wem</string>
+    <string name="answer60b">Ein Vogel hat sich verirrt</string>
     <string name="answer60c">Mir ist etwas passiert aber ich will nicht verraten was.</string>
     <string name="answer60d">Jemandem ist etwas passiert aber ich sage nicht wem oder was.</string>
 
-    <string name="question61">To be blind as a bat</string><!-->Reihenfolge?</!-->
-    <string name="answer61a">Einen guten Geruchssinn haben</string>
-    <string name="answer61b">Blind sein</string>
+    <string name="question61">To be blind as a bat</string>
+    <string name="answer61a">Blind sein</string>
+    <string name="answer61b">Einen guten Geruchssinn haben</string>
     <string name="answer61c">Nachtaktiv sein</string>
     <string name="answer61d">In der Dunkelheit nichts sehen können</string>
 
-    <string name="question62">Bear hug</string><!-->Reihenfolge?</!-->
+    <string name="question62">Bear hug</string>
     <string name="answer62a">eine herzliche warme Umarmung</string>
     <string name="answer62b">Einen Bären umarmen</string>
     <string name="answer62c">Bärenhöhle</string>
     <string name="answer62d">Honigtopf</string>
 
-    <string name="question63">Pig headed</string><!-->Reihenfolge?</!-->
+    <string name="question63">Pig headed</string>
     <string name="answer63a">seine Meinung nicht ändern wollen</string>
     <string name="answer63b">einen großen Kopf haben</string>
     <string name="answer63c">Ein Schweinekopf</string>
     <string name="answer63d">Protzig</string>
 
-    <string name="question64">A lone wolf</string><!-->Reihenfolge?</!-->
+    <string name="question64">A lone wolf</string>
     <string name="answer64a">Jemand, der es bevorzugt alleine zu sein.</string>
     <string name="answer64b">Eine Reihe Wölfe</string>
     <string name="answer64c">Ein einsamer Löwe</string>
     <string name="answer64d">Eine Einzelperson</string>
 
-    <string name="question65">In the dog`s house</string><!-->Reihenfolge?</!-->
+    <string name="question65">In the dog`s house</string>
     <string name="answer65a">Saustall</string>
     <string name="answer65b">Dreckiges Zimmer</string>
     <string name="answer65c">Es gibt Ärger</string>
