@@ -333,6 +333,108 @@
     <string name="answer54c">übertrieben ordentlich oder detailversessen sein</string>
     <string name="answer54d">seinen Besitz in Sicherheit bringen</string>
 
+    <string name="question55">To have a frog in your throat</string>
+    <string name="answer55a">Nicht mehr sprechen können/einen Frosch im Hals haben</string>
+    <string name="answer55b">Grün wie ein Frosch sein</string>
+    <string name="answer55c">Auf einmal anfangen zu quaken</string>
+    <string name="answer55d">Erkältet sein</string>
+
+    <string name="question56">As cute as a bugs ear</string>
+    <string name="answer56a">Sehr niedlich</string>
+    <string name="answer56b">Einen Käfer finden</string>
+    <string name="answer56c">Die Ohren offen haben</string>
+    <string name="answer56d">Tomaten auf den Ohren haben</string>
+
+    <string name="question57">To follow the herd</string>
+    <string name="answer57a">Der Menge hinterherlaufen</string>
+    <string name="answer57b">Dem Herd folgen</string>
+    <string name="answer57c">Jemanden verfolgen</string>
+    <string name="answer57d">Eine Pferdeherde sehen</string>
+
+    <string name="question58">The cat's Pyjamas</string>
+    <string name="answer58a">Der Allergrößte</string>
+    <string name="answer58b">Eine Katze in Pyjamas</string>
+    <string name="answer58c">Katzenfell</string>
+    <string name="answer58d">Pyjama mit Katzenmuster</string>
+
+    <string name="question59">Paper tiger</string>
+    <string name="answer59a">Person, die machtvoll erscheint, es aber nicht ist</string>
+    <string name="answer59b">Origami Tiger</string>
+    <string name="answer59c">Zirkustiger</string>
+    <string name="answer59d">gestreiftes Kleidungsstück</string>
+
+    <string name="question60">A little bird told me</string><!-->Reihenfolge?</!-->
+    <string name="answer60a">Ein Vogel hat sich verirrt</string>
+    <string name="answer60b">Mir wurde etwas gesagt aber ich will nicht sagen von wem</string>
+    <string name="answer60c">Mir ist etwas passiert aber ich will nicht verraten was.</string>
+    <string name="answer60d">Jemandem ist etwas passiert aber ich sage nicht wem oder was.</string>
+
+    <string name="question61">To be blind as a bat</string><!-->Reihenfolge?</!-->
+    <string name="answer61a">Einen guten Geruchssinn haben</string>
+    <string name="answer61b">Blind sein</string>
+    <string name="answer61c">Nachtaktiv sein</string>
+    <string name="answer61d">In der Dunkelheit nichts sehen können</string>
+
+    <string name="question62">Bear hug</string><!-->Reihenfolge?</!-->
+    <string name="answer62a">eine herzliche warme Umarmung</string>
+    <string name="answer62b">Einen Bären umarmen</string>
+    <string name="answer62c">Bärenhöhle</string>
+    <string name="answer62d">Honigtopf</string>
+
+    <string name="question63">Pig headed</string><!-->Reihenfolge?</!-->
+    <string name="answer63a">seine Meinung nicht ändern wollen</string>
+    <string name="answer63b">einen großen Kopf haben</string>
+    <string name="answer63c">Ein Schweinekopf</string>
+    <string name="answer63d">Protzig</string>
+
+    <string name="question64">A lone wolf</string><!-->Reihenfolge?</!-->
+    <string name="answer64a">Jemand, der es bevorzugt alleine zu sein.</string>
+    <string name="answer64b">Eine Reihe Wölfe</string>
+    <string name="answer64c">Ein einsamer Löwe</string>
+    <string name="answer64d">Eine Einzelperson</string>
+
+    <string name="question65">In the dog`s house</string><!-->Reihenfolge?</!-->
+    <string name="answer65a">Saustall</string>
+    <string name="answer65b">Dreckiges Zimmer</string>
+    <string name="answer65c">Es gibt Ärger</string>
+    <string name="answer65d">Ein Komplott wird geplant</string>
+
+    <string name="question66">it is a dog´s life</string>
+    <string name="answer66a">ein miserables Leben führen</string>
+    <string name="answer66b">ein glückliches Leben haben</string>
+    <string name="answer66c">sich wie ein Hund fühlen</string>
+    <string name="answer66d">wie ein Hund leben</string>
+
+    <string name="question67">to kill two birds with one stone</string>
+    <string name="answer67a">zwei Fliegen mit einer Klappe schlagen</string>
+    <string name="answer67b">Steinweitwurf</string>
+    <string name="answer67c">Vogeljagd</string>
+    <string name="answer67d">zwei Vögel mit einem Stein töten</string>
+
+    <string name="question68">It’s the last straw that breaks the camel’s back</string>
+    <string name="answer68a">Der Tropfen, der das Fass zum überlaufen bringt</string>
+    <string name="answer68b">Kamele mit Stroh füttern</string>
+    <string name="answer68c">Es ist der letzte Strohhalm, der dem Kamel den Rücken bricht</string>
+    <string name="answer68d">die Nadel im Heuhaufen suchen</string>
+
+    <string name="question69">Lovebirds</string>
+    <string name="answer69a">Zwei personen die verliebt sind</string>
+    <string name="answer69b">Vögel die verliebt sind</string>
+    <string name="answer69c">eine tragische Geschichte</string>
+    <string name="answer69d">Liebe zwischen tieren</string>
+
+    <string name="question70">A fish out of water</string>
+    <string name="answer70a">sich unwohl fühlen</string>
+    <string name="answer70b">Tote Person</string>
+    <string name="answer70c">So gut wie tot sein</string>
+    <string name="answer70d">Zubereiteter Fish</string>
+
+    <string name="question71">If you can run after two hares, you will catch neither</string>
+    <string name="answer71a">kein multitasking beherschen</string>
+    <string name="answer71b">ein schlechter Jäger sein</string>
+    <string name="answer71c">schnell aber tolpatschig sein</string>
+    <string name="answer71d">zu viel Zeit haben</string>
+
     //Vorlage
 
     <string name="question">empty</string>
