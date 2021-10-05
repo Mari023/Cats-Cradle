@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     Storage storage;
     private Button answerA, answerB, answerC, answerD;
     private TextView question;
+    private TextView score;
+    private TextView highscore;
     private Answer correct;
     private boolean done;
 
@@ -35,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
         answerC = findViewById(R.id.answerC);
         answerD = findViewById(R.id.answerD);
         question = findViewById(R.id.question);
+        score = findViewById(R.id.score);
+        highscore = findViewById(R.id.highscore);
 
         question.setTextSize(22);
         answerA.setTextSize(20);
@@ -102,5 +106,8 @@ public class MainActivity extends AppCompatActivity {
         answerB.setBackgroundColor(Color.LTGRAY);
         answerC.setBackgroundColor(Color.LTGRAY);
         answerD.setBackgroundColor(Color.LTGRAY);
+
+        score.setText("" + storage.getScore());
+        highscore.setText("" + storage.getHighScore());
     }
 }
