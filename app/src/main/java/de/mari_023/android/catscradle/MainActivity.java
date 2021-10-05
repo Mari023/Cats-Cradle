@@ -7,7 +7,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -105,27 +108,5 @@ public class MainActivity extends AppCompatActivity {
         answerB.setBackgroundColor(Color.LTGRAY);
         answerC.setBackgroundColor(Color.LTGRAY);
         answerD.setBackgroundColor(Color.LTGRAY);
-    }
-
-    public enum Answer {
-        ANSWERA(0), ANSWERB(1), ANSWERC(2), ANSWERD(3);
-
-        private static final HashMap<Integer, Answer> map = new HashMap<>();
-
-        static {
-            for(Answer answer : Answer.values()) {
-                map.put(answer.value, answer);
-            }
-        }
-
-        private final int value;
-
-        Answer(int value) {
-            this.value = value;
-        }
-
-        public static Answer valueOf(int answer) {
-            return map.get(answer);
-        }
     }
 }
