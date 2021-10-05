@@ -1,5 +1,7 @@
 package de.mari_023.android.catscradle;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
@@ -10,20 +12,23 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    final int questions = 72;
-    Button answerA, answerB, answerC, answerD;
-    TextView question;
-    Answer correct;
-    boolean done;
+    public static final int questions = 72;
+    public static SharedPreferences sharedpreferences;
+    Storage storage;
+    private Button answerA, answerB, answerC, answerD;
+    private TextView question;
+    private Answer correct;
+    private boolean done;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        sharedpreferences = getSharedPreferences("CatsCradle", Context.MODE_PRIVATE);
+        storage = Storage.getStorage();
 
         answerA = findViewById(R.id.answerA);
         answerB = findViewById(R.id.answerB);
@@ -37,56 +42,45 @@ public class MainActivity extends AppCompatActivity {
         answerC.setTextSize(20);
         answerD.setTextSize(20);
 
-        setup(new Random().nextInt(questions));
+        setup(storage.getQuestionNumber());
 
         answerA.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(done) setup(new Random().nextInt(questions));
-                else if(correct == Answer.ANSWERA) {
-                    answerA.setBackgroundColor(Color.GREEN);
-                    done = true;
-                } else {
-                    answerA.setBackgroundColor(Color.RED);
-                }
+                MainActivity.this.onClick(answerA, Answer.ANSWERA);
             }
         });
         answerB.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(done) setup(new Random().nextInt(questions));
-                else if(correct == Answer.ANSWERB) {
-                    answerB.setBackgroundColor(Color.GREEN);
-                    done = true;
-                } else {
-                    answerB.setBackgroundColor(Color.RED);
-                }
+                MainActivity.this.onClick(answerB, Answer.ANSWERB);
             }
         });
         answerC.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(done) setup(new Random().nextInt(questions));
-                else if(correct == Answer.ANSWERC) {
-                    answerC.setBackgroundColor(Color.GREEN);
-                    done = true;
-                } else {
-                    answerC.setBackgroundColor(Color.RED);
-                }
+                MainActivity.this.onClick(answerC, Answer.ANSWERC);
             }
         });
         answerD.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(done) setup(new Random().nextInt(questions));
-                else if(correct == Answer.ANSWERD) {
-                    answerD.setBackgroundColor(Color.GREEN);
-                    done = true;
-                } else {
-                    answerD.setBackgroundColor(Color.RED);
-                }
+                MainActivity.this.onClick(answerD, Answer.ANSWERD);
             }
         });
+    }
+
+    private void onClick(Button button, Answer answer) {
+        if(done) setup(storage.getQuestionNumber());
+        else if(correct == answer) {
+            button.setBackgroundColor(Color.GREEN);
+            done = true;
+            storage.resetQuestionNumber();
+            storage.increaseScore();
+        } else {
+            button.setBackgroundColor(Color.RED);
+            storage.resetScore();
+        }
     }
 
     private void setup(int questionNumber) {
