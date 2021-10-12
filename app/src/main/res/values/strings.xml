@@ -278,10 +278,10 @@
     <string name="answer45d">schnell wegrennen wie eine Ratte</string>
 
     <string name="question46">water off a duck\'s back</string>
-    <string name="answer46a">jemanden völlig kalt lassen</string>
-    <string name="answer46b">wasserfest sein</string>
-    <string name="answer46c">unbeirrbar seinen Weg gehen</string>
-    <string name="answer46d">unempfänglich für gute Ratschläge sein</string>
+    <string name="answer46a">Etwas hat keine Wirkung</string>
+    <string name="answer46b">Etwas ist überflüssig</string>
+    <string name="answer46c">Nicht der Rede wert</string>
+    <string name="answer46d">Salz in die Wunde streuen</string>
 
     <string name="question47">have a whale of a time</string>
     <string name="answer47a">sich großartig amüsieren</string>
@@ -397,6 +397,12 @@
     <string name="answer65c">Es gibt Ärger</string>
     <string name="answer65d">Ein Komplott wird geplant</string>
 
+    <string name="question66">To put out feelers</string>
+    <string name="answer66a">Sich langsam vorantasten</string>
+    <string name="answer66b">Mit etwas vertraut werden</string>
+    <string name="answer66c">Hellhörig werden</string>
+    <string name="answer66d">Lauschen</string>
+
     <string name="question67">to kill two birds with one stone</string>
     <string name="answer67a">zwei Fliegen mit einer Klappe schlagen</string>
     <string name="answer67b">Steinweitwurf</string>
@@ -426,12 +432,42 @@
     <string name="answer71b">ein schlechter Jäger sein</string>
     <string name="answer71c">schnell aber tolpatschig sein</string>
     <string name="answer71d">zu viel Zeit haben</string>
-
-    <string name="question66">missing</string>
-    <string name="answer66a">Joker</string>
-    <string name="answer66b">loose</string>
-    <string name="answer66c">loose</string>
-    <string name="answer66d">loose</string>
+    
+    <string name="question72">There are no flies on someone</string>
+    <string name="answer72a">Jemand ist unschuldig</string>
+    <string name="answer72b">Jemand ist nicht leicht reinzulegen</string>
+    <string name="answer72c">Jemand, der makellos wirkt</string>
+    <string name="answer72d">Jemand, der keiner Fliege was zu Leide tut</string>
+    
+    <string name="question73">To not mince your words</string>
+    <string name="answer73a">Etwas direkt sagen, auch wenn es andere verletzt</string>
+    <string name="answer73b">Den Worten keinen Glauben schenken</string>
+    <string name="answer73c">Nicht jedes Wort auf die Goldwaage legen</string>
+    <string name="answer73d">Reden, bevor man denkt</string>
+    
+    <string name="question74">If wishes were horses, beggars would ride</string>
+    <string name="answer74a"Nur weil man sich etwas wünscht, geschieht es nicht unbedingt</string>
+    <string name="answer74b">Könnte man alles, wäre es nichts Besonderes</string>
+    <string name="answer74c">Den Erfolg erkämpfen zu müssen</string>
+    <string name="answer74d">Nicht jeder ist gleich</string>
+    
+    <string name="question75">He\'s got kangaroos loose in his top paddock</string>
+    <string name="answer75a">Nicht mehr alle Tassen im Schrank haben</string>
+    <string name="answer75b">Ein Loch in der Hose haben</string>
+    <string name="answer75c">Von etwas zu viel haben</string>
+    <string name="answer75d">Ein Verräter sein</string>
+    
+    <string name="question76">Ants in your pants</string>
+    <string name="answer76a">Nicht stillsitzen können</string>
+    <string name="answer76b">Sich in die Hose machen</string>
+    <string name="answer76c">Dreckige Klamotten anhaben</string>
+    <string name="answer76d">Es faustdick hinter den Ohren haben</string>
+    
+    <string name="question77">On the horns of a dilemma</string>
+    <string name="answer77a">Sich zwischen zwei gleich unangenehmen Sachen entscheiden</string>
+    <string name="answer77b">Der Höhepunkt eines Dilemmas</string>
+    <string name="answer77c">Ein Dilemma erzeugen</string>
+    <string name="answer77d">Die Folgen des Dilemmas</string>
 
     //Vorlage
 
