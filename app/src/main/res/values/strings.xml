@@ -462,12 +462,42 @@
     <string name="answer76b">Sich in die Hose machen</string>
     <string name="answer76c">Dreckige Klamotten anhaben</string>
     <string name="answer76d">Es faustdick hinter den Ohren haben</string>
-    
+
     <string name="question77">On the horns of a dilemma</string>
     <string name="answer77a">Sich zwischen zwei gleich unangenehmen Sachen entscheiden</string>
     <string name="answer77b">Der Höhepunkt eines Dilemmas</string>
     <string name="answer77c">Ein Dilemma erzeugen</string>
     <string name="answer77d">Die Folgen des Dilemmas</string>
+
+    <string name="question78">rat race</string>
+    <string name="answer78a">ständiger Konkurrenzkampf</string>
+    <string name="answer78b">Rattenrennen</string>
+    <string name="answer78c">immer auf dem Sprung sein</string>
+    <string name="answer78d">ein verlorener Kampf</string>
+
+    <string name="question79">to be as quiet as a mouse</string>
+    <string name="answer79a">mucksmäuschen still sein</string>
+    <string name="answer79b">so klein wie eine Maus sein</string>
+    <string name="answer79c">eine große Klappe haben</string>
+    <string name="answer79d">im Hintergrund die Fäden ziehen</string>
+
+    <string name="question80">bear market</string>
+    <string name="answer80a">ein Aktienmarkt, der unvorhersehbar ist</string>
+    <string name="answer80b">ein Bärenmarkt</string>
+    <string name="answer80c">der Wochenmarkt</string>
+    <string name="answer80d">eine Aktiengesellschaft</string>
+
+    <string name="question81">to feather your own nest</string>
+    <string name="answer81a">Geld für sich selbst ausgeben, obwohl es für etwas anderes bestimmt war</string>
+    <string name="answer81b">Vögel großziehen</string>
+    <string name="answer81c">großzügig sein</string>
+    <string name="answer81d">Frühjahresputz</string>
+
+    <string name="question82">flea pit</string>
+    <string name="answer82a">ein altes und dreckiges Theater oder Kino</string>
+    <string name="answer82b">Flohgrube</string>
+    <string name="answer82c">ein sauberer und schöner Ort</string>
+    <string name="answer82d">ein kleines Loch</string>
 
     //Vorlage
 
