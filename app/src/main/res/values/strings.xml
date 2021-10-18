@@ -499,6 +499,70 @@
     <string name="answer82c">ein sauberer und schöner Ort</string>
     <string name="answer82d">ein kleines Loch</string>
 
+    <string name="question83">Curiosity killed the cat</string>
+    <string name="answer83a">Neugier kann gefährlich sein</string>
+    <string name="answer83b">Die Katze wurde auf dem Mars vom Rover \"Curiosity\" überfahren</string>
+    <string name="answer83c">Man soll sich nicht mit stärkeren anlegen</string>
+    <string name="answer83d">Neugierige Katzen sterben</string>
+
+    <string name="question84">Cat burglar</string>
+    <string name="answer84a">Ein Einbrecher der Gebäude durch sehr geschicktes Klettern betritt</string>
+    <string name="answer84b">Ein Dieb der Katzen klaut (Ein catnapper)</string>
+    <string name="answer84c">Eine diebische Katze</string>
+    <string name="answer84d">Ein Burger für Katzen</string>
+
+    <string name="question85">Rat run</string>
+    <string name="answer85a">Eine Nebenstraße, meist mit Häusern, die von Fahrzeugen benutzt wird, wenn auf der
+        Hauptstraße Stau ist
+    </string>
+    <string name="answer85b">Eine Art Hamsterrad für Hausratten, das zur Beschäftigung und Bewegung der Tiere in den
+        Käfig gestellt wird
+    </string>
+    <string name="answer85c">Die Kanalisation</string>
+    <string name="answer85d">Ein Rattenrennen</string>
+
+    <string name="question86">the tail is wagging the dog</string>
+    <string name="answer86a">Eine kleine, unwichtige Sache wird zu wichtig genommen</string>
+    <string name="answer86b">Ein hyperaktiver Hund</string>
+    <string name="answer86c">Etwas ist falsch herum aufgebaut</string>
+    <string name="answer86d">Da beißt sich die Maus selbst in den Schwanz</string>
+
+    <string name="question87">Dogs bark but the caravan goes on</string>
+    <string name="answer87a">Das Leben geht trotz allem weiter</string>
+    <string name="answer87b">Der Hund wird Zuhause allein zurückgelassen</string>
+    <string name="answer87c">Kriminelle, die trotz Wachhund einbrechen</string>
+    <string name="answer87d">Eine Gruppe von Menschen, die ihr eigenes Ding machen</string>
+
+    <string name="question88">an odd / a queer fish</string>
+    <string name="answer88a">eine etwas eigenartige Person</string>
+    <string name="answer88b">ein regenbogenfarbener Fisch</string>
+    <string name="answer88c">ein nicht-binärer Fisch</string>
+    <string name="answer88d">ein schlecht schmeckender Fisch</string>
+
+    <string name="question89">To make a pig’s ear out of something</string>
+    <string name="answer89a">etwas verpfuschen</string>
+    <string name="answer89b">Schweineohren backen</string>
+    <string name="answer89c">etwas beschönigen, spannender machen</string>
+    <string name="answer89d">Sich von jemandem das Ohr leihen</string>
+
+    <string name="question90">To play ducks and drakes</string>
+    <string name="answer90a">Sich unverantwortlich verhalten</string>
+    <string name="answer90b">Auf Entenjagd gehen</string>
+    <string name="answer90c">Enten und Erpel füttern</string>
+    <string name="answer90d">Mensch-Ärgere-Dich-nicht spielen</string>
+
+    <string name="question91">To be on your high horse</string>
+    <string name="answer91a">Auf dem hohen Ross sitzen</string>
+    <string name="answer91b">Auf seinem besten Pferd reiten</string>
+    <string name="answer91c">In seiner Bestform sein</string>
+    <string name="answer91d">In fahrt sein</string>
+
+    <string name="question92">On the hoof</string>
+    <string name="answer92a">etwas nur mit halber Aufmerksamkeit machen</string>
+    <string name="answer92b">auf einem Podest stehen</string>
+    <string name="answer92c">Jemandem auf den Fuß treten</string>
+    <string name="answer92d">Auf dem Bauernhof</string>
+
     //Vorlage
 
     <string name="question">empty</string>
