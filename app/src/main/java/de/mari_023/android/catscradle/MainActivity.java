@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
         answerC.setBackgroundColor(Color.LTGRAY);
         answerD.setBackgroundColor(Color.LTGRAY);
 
-        score.setText("" + storage.getScore());
-        highscore.setText("" + storage.getHighScore());
+        score.setText("Score: " + storage.getScore());
+        highscore.setText("Highscore: " + storage.getHighScore());
     }
 }
