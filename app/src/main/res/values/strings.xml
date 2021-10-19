@@ -45,8 +45,8 @@
 
     <string name="question7">Don\'t look a gifted horse in the mouth</string>
     <string name="answer7a">Einem geschenkten Pferd schaut man nicht ins Maul</string>
-    <string name="answer7b">Das geschenkte Pferd nicht zu sehr genau zu betrachten</string>
-    <string name="answer7c">Eine geschenkte Sache nicht zu hinterfragen</string>
+    <string name="answer7b">Das geschenkte Pferd nicht zu genau betrachten</string>
+    <string name="answer7c">Eine geschenkte Sache nicht hinterfragen</string>
     <string name="answer7d">Ein Geschenk sollte man nicht anzweifeln</string>
 
     <string name="question8">The early bird catches the worm</string>
