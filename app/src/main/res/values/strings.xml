@@ -20,10 +20,10 @@
     <string name="answer2d">Wie ein Hase hoppeln</string>
 
     <string name="question3">To rat on s.o./to rat sb out</string>
-    <string name="answer3a">Jmd. Sitzenlassen, Jmd. Verpfeifen</string>
-    <string name="answer3b">Jmd. Ausbooten, Jmd. in einem Wettbewerb besiegen</string>
-    <string name="answer3c">Jmd. Beleidigen</string>
-    <string name="answer3d">Jmd. Wie eine Ratte behandeln</string>
+    <string name="answer3a">Jemand Sitzenlassen, Jemand Verpfeifen</string>
+    <string name="answer3b">Jemanden ausbooten, Jemanden in einem Wettbewerb besiegen</string>
+    <string name="answer3c">Jemanden beleidigen</string>
+    <string name="answer3d">Jemanden wie eine Ratte behandeln</string>
 
     <string name="question4">To do a runner</string>
     <string name="answer4a">Die Fliege machen</string>
@@ -38,14 +38,14 @@
     <string name="answer5d">Ein auffälliges Outfit auf dem roten Teppich</string>
 
     <string name="question6">See you later, Alligator</string>
-    <string name="answer6a">sich von jemanden auf kindische Weise (für eine kurze Zeitspanne) verabschieden</string>
-    <string name="answer6b">sich einem Krokodil verabschieden</string>
-    <string name="answer6c">sich von einer Person verabschieden, die man für ein Krokodil hält</string>
-    <string name="answer6d">sich darauf freuen, später ein Krokodil zu sehen</string>
+    <string name="answer6a">Sich von jemanden auf kindische Weise (für eine kurze Zeitspanne) verabschieden</string>
+    <string name="answer6b">Sich von einem Krokodil verabschieden</string>
+    <string name="answer6c">Sich von einer Person verabschieden, die man für ein Krokodil hält</string>
+    <string name="answer6d">Sich darauf freuen, später ein Krokodil zu sehen</string>
 
     <string name="question7">Don\'t look a gifted horse in the mouth</string>
     <string name="answer7a">Einem geschenkten Pferd schaut man nicht ins Maul</string>
-    <string name="answer7b">Das geschenkte Pferd nicht zu sehr zu betrachten</string>
+    <string name="answer7b">Das geschenkte Pferd nicht zu sehr genau zu betrachten</string>
     <string name="answer7c">Eine geschenkte Sache nicht zu hinterfragen</string>
     <string name="answer7d">Ein Geschenk sollte man nicht anzweifeln</string>
 
@@ -65,7 +65,7 @@
     <string name="answer10a">Mach mal langsam, immer mit der Ruhe</string>
     <string name="answer10b">Halte deine Pferde fest</string>
     <string name="answer10c">Pass auf deine Pferde auf</string>
-    <string name="answer10d">Unterschätze nicht die Geschwindigkeit von Pferde</string>
+    <string name="answer10d">Unterschätze nicht die Geschwindigkeit von Pferden</string>
 
     <string name="question11">Ram-raiding</string>
     <string name="answer11a">Ladendiebstahl, bei dem ein gestohlenes Auto als Rammbock dient</string>
@@ -74,7 +74,7 @@
     <string name="answer11d">Fahrweise beim Autoscooterfahren, bei der die Anderen gerammt werden</string>
 
     <string name="question12">Red in tooth and claw</string>
-    <string name="answer12a">blutrünstig, grausam</string>
+    <string name="answer12a">Blutrünstig, grausam</string>
     <string name="answer12b">Von der Maul- und Klauenseuche befallen</string>
     <string name="answer12c">Bis auf die Zähne bewaffnet</string>
     <string name="answer12d">Eine rote Kriegsbemalung tragend</string>
@@ -85,10 +85,10 @@
     <string name="answer13c">Berühmtes Zitat eines Tierschützers</string>
     <string name="answer13d">Es gibt keinen Handlungsspielraum</string>
 
-    <string name="question14">To ruffle sb\'s/a few feathers</string>
-    <string name="answer14a">Jmd verärgern</string>
+    <string name="question14">To ruffle sb\'s feathers</string>
+    <string name="answer14a">Jemand verärgern</string>
     <string name="answer14b">Sich mit fremden Federn schmücken</string>
-    <string name="answer14c">Kein gutes Haar an jmd lassen</string>
+    <string name="answer14c">Kein gutes Haar an jemand lassen</string>
     <string name="answer14d">Beim Varieté : Jemandes Federboa (seine Rolle) stehlen</string>
 
     <string name="question15">Running Dog</string>
@@ -99,9 +99,9 @@
 
     <string name="question16">To rabbit on (about sb/sth)</string>
     <string name="answer16a">Über etwas quasseln, schwafeln</string>
-    <string name="answer16b">Über jmd schlecht reden, lästern</string>
-    <string name="answer16c">So schnell reden wie ein Hase läuft</string>
-    <string name="answer16d">Jmd in der Luft zerreißen, ein Thema zerpflücken</string>
+    <string name="answer16b">Über jemand schlecht reden, lästern</string>
+    <string name="answer16c">So schnell reden, wie ein Hase läuft</string>
+    <string name="answer16d">Jemanden in der Luft zerreißen, ein Thema zerpflücken</string>
 
     <string name="question17">Rat pack</string>
     <string name="answer17a">Paparazzi</string>
@@ -110,7 +110,7 @@
     <string name="answer17d">Umgangssprachlich: Verein der Kleinnagetierfreunde</string>
 
     <string name="question18">Ravenhaired</string>
-    <string name="answer18a">schwarzhaarig</string>
+    <string name="answer18a">Schwarzhaarig</string>
     <string name="answer18b">Bezeichnung des Federkleides von Raben-, Krähenvögeln</string>
     <string name="answer18c">Als Adjektiv für eine Komödie: rabenschwarz</string>
     <string name="answer18d">Klug wie ein Rabe</string>
@@ -118,7 +118,7 @@
     <string name="question19">Road hog</string>
     <string name="answer19a">Ein Verkehrsrowdy</string>
     <string name="answer19b">Ein Igel auf der Fahrbahn</string>
-    <string name="answer19c">Jmd, der seinen Müll auf die Straße wirft</string>
+    <string name="answer19c">Jemand, der seinen Müll auf die Straße wirft</string>
     <string name="answer19d">Hans Dampf in allen Gassen</string>
 
     <string name="question20">To be in the doghouse</string>
@@ -131,7 +131,7 @@
     <string name="answer21a">Gar keine Chance haben</string>
     <string name="answer21b">Eine letzte Chance bekommen</string>
     <string name="answer21c">Seinem Hund eine Chance geben</string>
-    <string name="answer21d">Seinem Hund keine Leckerlies geben</string>
+    <string name="answer21d">Seinem Hund keine Leckerlis geben</string>
 
     <string name="question22">To be a dead duck</string>
     <string name="answer22a">Eine Schnapsidee</string>
@@ -155,7 +155,7 @@
     <string name="answer25a">Ein schlechtes Leben haben</string>
     <string name="answer25b">Ein gutes Leben haben</string>
     <string name="answer25c">Faul sein</string>
-    <string name="answer25d">Zu viel Fleisch zu essen</string>
+    <string name="answer25d">Zu viel Fleisch zum Essen haben</string>
 
     <string name="question26">Every dog has his / its day</string>
     <string name="answer26a">Jeder hat mal einen guten Tag</string>
@@ -175,11 +175,11 @@
     <string name="answer28c">Dick sein</string>
     <string name="answer28d">Eine große Nase haben</string>
 
-    <string name="question29">To ape / apeshit</string>
+    <string name="question29">To go ape / apeshit</string>
     <string name="answer29a">Ausflippen</string>
     <string name="answer29b">Ärger mit seiner App haben</string>
     <string name="answer29c">Mit einer App spielen</string>
-    <string name="answer29d">ein Affe werden</string>
+    <string name="answer29d">Zum Affen werden</string>
 
     <string name="question30">To back the wrong horse</string>
     <string name="answer30a">Jemanden nutzlos unterstützen (ohne Erfolg)</string>
@@ -190,7 +190,7 @@
     <string name="question31">Go to the dogs!</string>
     <string name="answer31a">Sehr schlecht gelaunt sein/in einer schlechten Stimmung sein</string>
     <string name="answer31b">Geh zu den Hunden</string>
-    <string name="answer31c">Jemanden etwas schlechtes wünschen</string>
+    <string name="answer31c">Jemanden etwas Schlechtes wünschen</string>
     <string name="answer31d">Zugrunde gehen</string>
 
     <string name="question32">Even a worm will return</string>
@@ -201,138 +201,138 @@
 
     <string name="question33">To get sb\'s goat</string>
     <string name="answer33a">Jemanden nerven</string>
-    <string name="answer33b">Die Ziege jmdn. bekommen</string>
+    <string name="answer33b">Die Ziege von jemandem bekommen</string>
     <string name="answer33c">Eine Ziege von jemanden werden</string>
     <string name="answer33d">Das Sternzeichen des Steinbockes erhalten</string>
 
-    <string name="question34">in the saddle</string>
-    <string name="answer34a">in einer Machtposition</string>
-    <string name="answer34b">im Sattel sitzen</string>
-    <string name="answer34c">reiten können</string>
-    <string name="answer34d">im Sattel drin</string>
+    <string name="question34">In the saddle</string>
+    <string name="answer34a">In einer Machtposition</string>
+    <string name="answer34b">Im Sattel sitzen</string>
+    <string name="answer34c">Reiten können</string>
+    <string name="answer34d">Im Sattel drin</string>
 
-    <string name="question35">crammed like sardines</string>
-    <string name="answer35a">eng aneinander gedrückt</string>
-    <string name="answer35b">wie die Fische im Wasser</string>
-    <string name="answer35c">so groß wie Sardinen</string>
-    <string name="answer35d">auf der Wasseroberfläche</string>
+    <string name="question35">Crammed like sardines</string>
+    <string name="answer35a">Eng aneinander gedrückt</string>
+    <string name="answer35b">Wie die Fische im Wasser</string>
+    <string name="answer35c">So groß wie Sardinen</string>
+    <string name="answer35d">Auf der Wasseroberfläche</string>
 
-    <string name="question36">what\'s sauce for the goose is sauce for the gander</string>
-    <string name="answer36a">was der eine darf, muss der andere auch dürfen</string>
-    <string name="answer36b">alle Gänse haben gleiche Möglichkeiten</string>
-    <string name="answer36c">was dem einen egal ist, ist dem anderen auch egal</string>
-    <string name="answer36d">alle Soßen schmecken gleich</string>
+    <string name="question36">What\'s sauce for the goose is sauce for the gander</string>
+    <string name="answer36a">Was der eine darf, muss der andere auch dürfen</string>
+    <string name="answer36b">Alle Gänse haben gleiche Möglichkeiten</string>
+    <string name="answer36c">Was dem einen egal ist, ist dem anderen auch egal</string>
+    <string name="answer36d">Alle Soßen schmecken gleich</string>
 
-    <string name="question37">to not say boo to a goose</string>
-    <string name="answer37a">schüchtern und sanft sein</string>
+    <string name="question37">To not say boo to a goose</string>
+    <string name="answer37a">Schüchtern und sanft sein</string>
     <string name="answer37b">Gänse soll man nicht erschrecken</string>
-    <string name="answer37c">mit Gänsen sprechen</string>
-    <string name="answer37d">schreckhaft sein</string>
+    <string name="answer37c">Git Gänsen sprechen</string>
+    <string name="answer37d">Schreckhaft sein</string>
 
-    <string name="question38">to behave like sheep</string>
-    <string name="answer38a">das machen, was alle machen</string>
-    <string name="answer38b">sich wie ein Schaf verhalten</string>
+    <string name="question38">To behave like sheep</string>
+    <string name="answer38a">Das machen, was alle machen</string>
+    <string name="answer38b">Sich wie ein Schaf verhalten</string>
     <string name="answer38c">Schafe hüten</string>
-    <string name="answer38d">mit den Schafen spielen</string>
+    <string name="answer38d">Mit den Schafen spielen</string>
 
-    <string name="question39">to separate the sheep from the goats</string>
+    <string name="question39">To separate the sheep from the goats</string>
     <string name="answer39a">Menschen, die etwas können, von den anderen trennen</string>
     <string name="answer39b">Ziegen und Schafe trennen</string>
-    <string name="answer39c">die Ziegen zu den Schafen stellen</string>
+    <string name="answer39c">Die Ziegen zu den Schafen stellen</string>
     <string name="answer39d">Kinder und Erwachsene unterscheiden</string>
 
-    <string name="question40">to come out of your shell</string>
-    <string name="answer40a">weniger schüchtern sein und selbstbewusst auftreten</string>
-    <string name="answer40b">die Muschel verlassen</string>
-    <string name="answer40c">das Haus verlassen</string>
-    <string name="answer40d">eine Perle in der Muschel finden</string>
+    <string name="question40">To come out of your shell</string>
+    <string name="answer40a">Weniger schüchtern sein und selbstbewusst auftreten</string>
+    <string name="answer40b">Die Muschel verlassen</string>
+    <string name="answer40c">Das Haus verlassen</string>
+    <string name="answer40d">Eine Perle in der Muschel finden</string>
 
-    <string name="question41">to go into your shell</string>
-    <string name="answer41a">schüchtern werden und nicht gerne mit anderen reden</string>
-    <string name="answer41b">sich in ein Haus zurückziehen</string>
-    <string name="answer41c">sich ein gutes Versteck suchen</string>
-    <string name="answer41d">in seine Heimat zurückkehren</string>
+    <string name="question41">To go into your shell</string>
+    <string name="answer41a">Schüchtern werden und nicht gerne mit anderen reden</string>
+    <string name="answer41b">Sich in ein Haus zurückziehen</string>
+    <string name="answer41c">Sich ein gutes Versteck suchen</string>
+    <string name="answer41d">In seine Heimat zurückkehren</string>
 
-    <string name="question42">shooting fish in a barrel</string>
-    <string name="answer42a">etwas sehr einfach finden</string>
-    <string name="answer42b">gut zielen können</string>
-    <string name="answer42c">auf Fische schießen</string>
-    <string name="answer42d">etwas sehr schwer finden</string>
+    <string name="question42">Shooting fish in a barrel</string>
+    <string name="answer42a">Etwas sehr einfach finden</string>
+    <string name="answer42b">Gut zielen können</string>
+    <string name="answer42c">Auf Fische schießen</string>
+    <string name="answer42d">Etwas sehr schwer finden</string>
 
-    <string name="question43">a sitting duck</string>
-    <string name="answer43a">jemand, der einfach anzugreifen ist</string>
-    <string name="answer43b">jemand, der nur rumsitzt</string>
-    <string name="answer43c">jemand, der gerne schwimmt</string>
-    <string name="answer43d">eine Ente, die nicht laufen kann</string>
+    <string name="question43">A sitting duck</string>
+    <string name="answer43a">Jemand, der einfach anzugreifen ist</string>
+    <string name="answer43b">Jemand, der nur rumsitzt</string>
+    <string name="answer43c">Jemand, der gerne schwimmt</string>
+    <string name="answer43d">Eine Ente, die nicht laufen kann</string>
 
-    <string name="question44">a snake in the grass</string>
-    <string name="answer44a">jemand, der freundlich tut, aber hinerhältig ist</string>
-    <string name="answer44b">jemand, der sich gut verstecken kann</string>
-    <string name="answer44c">jemand, der auf der Lauer liegt</string>
-    <string name="answer44d">jemand, der sehr klein ist</string>
+    <string name="question44">A snake in the grass</string>
+    <string name="answer44a">Jemand, der freundlich tut, aber hinterhältig ist</string>
+    <string name="answer44b">Jemand, der sich gut verstecken kann</string>
+    <string name="answer44c">Jemand, der auf der Lauer liegt</string>
+    <string name="answer44d">Jemand, der sehr klein ist</string>
 
-    <string name="question45">like rats leaving a sinking ship</string>
-    <string name="answer45a">wenn jemand bei Problemen die anderen im Stich lässt und verschwindet</string>
-    <string name="answer45b">wenn jemand gezwungen ist ins Wasser zu springen</string>
-    <string name="answer45c">wenn jemand versucht Ratten zu verscheuchen</string>
-    <string name="answer45d">schnell wegrennen wie eine Ratte</string>
+    <string name="question45">Like rats leaving a sinking ship</string>
+    <string name="answer45a">Wenn jemand bei Problemen die anderen im Stich lässt und verschwindet</string>
+    <string name="answer45b">Wenn jemand gezwungen ist ins Wasser zu springen</string>
+    <string name="answer45c">Wenn jemand versucht, Ratten zu verscheuchen</string>
+    <string name="answer45d">Schnell wegrennen wie eine Ratte</string>
 
-    <string name="question46">water off a duck\'s back</string>
+    <string name="question46">Water off a duck\'s back</string>
     <string name="answer46a">Etwas hat keine Wirkung</string>
     <string name="answer46b">Etwas ist überflüssig</string>
     <string name="answer46c">Nicht der Rede wert</string>
     <string name="answer46d">Salz in die Wunde streuen</string>
 
-    <string name="question47">have a whale of a time</string>
-    <string name="answer47a">sich großartig amüsieren</string>
-    <string name="answer47b">sehr viel Zeit haben</string>
-    <string name="answer47c">eine Seereise machen</string>
-    <string name="answer47d">ein langes Leben haben</string>
+    <string name="question47">Have a whale of a time</string>
+    <string name="answer47a">Sich großartig amüsieren</string>
+    <string name="answer47b">Sehr viel Zeit haben</string>
+    <string name="answer47c">Eine Seereise machen</string>
+    <string name="answer47d">Ein langes Leben haben</string>
 
-    <string name="question48">come within a whisker of sth</string>
-    <string name="answer48a">etwas stößt einem beinahe zu</string>
-    <string name="answer48b">beinahe etwas berühren</string>
-    <string name="answer48c">bei einem Wettbewerb den zweiten Platz erreichen</string>
-    <string name="answer48d">etwas ahnen</string>
+    <string name="question48">Come within a whisker of sth</string>
+    <string name="answer48a">Etwas stößt einem beinahe zu</string>
+    <string name="answer48b">Beinahe etwas berühren</string>
+    <string name="answer48c">Bei einem Wettbewerb den zweiten Platz erreichen</string>
+    <string name="answer48d">Etwas ahnen</string>
 
-    <string name="question49">talk turkey</string>
+    <string name="question49">Talk turkey</string>
     <string name="answer49a">offen und unverblümt reden</string>
     <string name="answer49b">in einer unverständlichen Sprache reden</string>
     <string name="answer49c">undeutlich reden</string>
     <string name="answer49d">um den heißen Brei herumreden</string>
 
-    <string name="question50">keep the wolf from the door</string>
-    <string name="answer50a">sich gerade so über Wasser halten</string>
+    <string name="question50">Keep the wolf from the door</string>
+    <string name="answer50a">Sich gerade so über Wasser halten</string>
     <string name="answer50b">in Sicherheit leben</string>
     <string name="answer50c">nicht auf Betrüger hereinfallen</string>
-    <string name="answer50d">als Einsiedler leben</string>
+    <string name="answer50d">Als Einsiedler leben</string>
 
-    <string name="question51">a wolf in sheep\'s clothing</string>
-    <string name="answer51a">jemand, der einen schlechten Charakter hinter einem angenehmen Äußeren verbirgt</string>
-    <string name="answer51b">jemand, der sich unangemessen kleidet</string>
-    <string name="answer51c">ein übertrieben bescheidener Mensch</string>
-    <string name="answer51d">jemand, der unter einem Künstlernamen auftritt</string>
+    <string name="question51">A wolf in sheep\'s clothing</string>
+    <string name="answer51a">Jemand, der einen schlechten Charakter hinter einem angenehmen Äußeren verbirgt</string>
+    <string name="answer51b">Jemand, der sich unangemessen kleidet</string>
+    <string name="answer51c">Ein übertrieben bescheidener Mensch</string>
+    <string name="answer51d">Jemand, der unter einem Künstlernamen auftritt</string>
 
-    <string name="question52">like waving a red flag in front of a bull</string>
-    <string name="answer52a">jemanden absichtlich provozieren</string>
-    <string name="answer52b">sich leichtsinnig oder tollkühn verhalten</string>
-    <string name="answer52c">einer Gefahr ins Auge sehen</string>
-    <string name="answer52d">einen offensichtlichen Fehler machen</string>
+    <string name="question52">Like waving a red flag in front of a bull</string>
+    <string name="answer52a">Jemanden absichtlich provozieren</string>
+    <string name="answer52b">Sich leichtsinnig oder tollkühn verhalten</string>
+    <string name="answer52c">Einer Gefahr ins Auge sehen</string>
+    <string name="answer52d">Einen offensichtlichen Fehler machen</string>
 
-    <string name="question53">till the cow comes home</string>
-    <string name="answer53a">bis zum Abwinken</string>
-    <string name="answer53b">bevor es zu spät ist</string>
-    <string name="answer53c">bevor es Abend wird</string>
-    <string name="answer53d">solange man unbeobachtet ist</string>
+    <string name="question53">Till the cow comes home</string>
+    <string name="answer53a">Bis zum Abwinken</string>
+    <string name="answer53b">Bevor es zu spät ist</string>
+    <string name="answer53c">Bevor es Abend wird</string>
+    <string name="answer53d">Solange man unbeobachtet ist</string>
 
-    <string name="question54">to get one\'s ducks in a row</string>
-    <string name="answer54a">sich gut organisiert haben</string>
+    <string name="question54">To get one\'s ducks in a row</string>
+    <string name="answer54a">Sich gut organisiert haben</string>
     <string name="answer54b">Macht auf andere ausüben</string>
     <string name="answer54c">übertrieben ordentlich oder detailversessen sein</string>
-    <string name="answer54d">seinen Besitz in Sicherheit bringen</string>
+    <string name="answer54d">Seinen Besitz in Sicherheit bringen</string>
 
     <string name="question55">To have a frog in your throat</string>
-    <string name="answer55a">Nicht mehr sprechen können/einen Frosch im Hals haben</string>
+    <string name="answer55a">Nicht mehr sprechen können / einen Frosch im Hals haben</string>
     <string name="answer55b">Grün wie ein Frosch sein</string>
     <string name="answer55c">Auf einmal anfangen zu quaken</string>
     <string name="answer55d">Erkältet sein</string>
@@ -349,8 +349,8 @@
     <string name="answer57c">Jemanden verfolgen</string>
     <string name="answer57d">Eine Pferdeherde sehen</string>
 
-    <string name="question58">The cat\'s Pyjamas</string>
-    <string name="answer58a">Der Allergrößte</string>
+    <string name="question58">The cat\'s pyjamas</string>
+    <string name="answer58a">Der Allerbeste</string>
     <string name="answer58b">Eine Katze in Pyjamas</string>
     <string name="answer58c">Katzenfell</string>
     <string name="answer58d">Pyjama mit Katzenmuster</string>
@@ -359,13 +359,13 @@
     <string name="answer59a">Person, die machtvoll erscheint, es aber nicht ist</string>
     <string name="answer59b">Origami Tiger</string>
     <string name="answer59c">Zirkustiger</string>
-    <string name="answer59d">gestreiftes Kleidungsstück</string>
+    <string name="answer59d">Gestreiftes Kleidungsstück</string>
 
     <string name="question60">A little bird told me</string>
-    <string name="answer60a">Mir wurde etwas gesagt aber ich will nicht sagen von wem</string>
+    <string name="answer60a">Mir wurde etwas gesagt, aber ich will nicht sagen, von wem</string>
     <string name="answer60b">Ein Vogel hat sich verirrt</string>
-    <string name="answer60c">Mir ist etwas passiert aber ich will nicht verraten was</string>
-    <string name="answer60d">Jemandem ist etwas passiert aber ich sage nicht wem oder was</string>
+    <string name="answer60c">Mir ist etwas passiert, aber ich will nicht verraten, was</string>
+    <string name="answer60d">Jemandem ist etwas passiert, aber ich sage nicht, wem oder was</string>
 
     <string name="question61">To be blind as a bat</string>
     <string name="answer61a">Blind sein</string>
@@ -374,19 +374,19 @@
     <string name="answer61d">In der Dunkelheit nichts sehen können</string>
 
     <string name="question62">Bear hug</string>
-    <string name="answer62a">eine herzliche warme Umarmung</string>
+    <string name="answer62a">Eine herzliche, warme Umarmung</string>
     <string name="answer62b">Einen Bären umarmen</string>
     <string name="answer62c">Bärenhöhle</string>
     <string name="answer62d">Honigtopf</string>
 
-    <string name="question63">Pig headed</string>
-    <string name="answer63a">seine Meinung nicht ändern wollen</string>
-    <string name="answer63b">einen großen Kopf haben</string>
+    <string name="question63">Pig-headed</string>
+    <string name="answer63a">Seine Meinung nicht ändern wollen</string>
+    <string name="answer63b">Einen großen Kopf haben</string>
     <string name="answer63c">Ein Schweinekopf</string>
     <string name="answer63d">Protzig</string>
 
     <string name="question64">A lone wolf</string>
-    <string name="answer64a">Jemand, der es bevorzugt alleine zu sein</string>
+    <string name="answer64a">Jemand, der es bevorzugt, alleine zu sein</string>
     <string name="answer64b">Eine Reihe Wölfe</string>
     <string name="answer64c">Ein einsamer Löwe</string>
     <string name="answer64d">Eine Einzelperson</string>
@@ -403,35 +403,35 @@
     <string name="answer66c">Hellhörig werden</string>
     <string name="answer66d">Lauschen</string>
 
-    <string name="question67">to kill two birds with one stone</string>
-    <string name="answer67a">zwei Fliegen mit einer Klappe schlagen</string>
+    <string name="question67">To kill two birds with one stone</string>
+    <string name="answer67a">Zwei Fliegen mit einer Klappe schlagen</string>
     <string name="answer67b">Steinweitwurf</string>
     <string name="answer67c">Vogeljagd</string>
-    <string name="answer67d">zwei Vögel mit einem Stein töten</string>
+    <string name="answer67d">Zwei Vögel mit einem Stein töten</string>
 
     <string name="question68">It\'s the last straw that breaks the camel’s back</string>
     <string name="answer68a">Der Tropfen, der das Fass zum überlaufen bringt</string>
     <string name="answer68b">Kamele mit Stroh füttern</string>
     <string name="answer68c">Es ist der letzte Strohhalm, der dem Kamel den Rücken bricht</string>
-    <string name="answer68d">die Nadel im Heuhaufen suchen</string>
+    <string name="answer68d">Die Nadel im Heuhaufen suchen</string>
 
     <string name="question69">Lovebirds</string>
-    <string name="answer69a">Zwei personen die verliebt sind</string>
-    <string name="answer69b">Vögel die verliebt sind</string>
-    <string name="answer69c">eine tragische Geschichte</string>
-    <string name="answer69d">Liebe zwischen tieren</string>
+    <string name="answer69a">Zwei Personen, die verliebt sind</string>
+    <string name="answer69b">Vögel, die verliebt sind</string>
+    <string name="answer69c">Eine tragische Geschichte</string>
+    <string name="answer69d">Liebe zwischen Tieren</string>
 
     <string name="question70">A fish out of water</string>
-    <string name="answer70a">sich unwohl fühlen</string>
+    <string name="answer70a">Sich unwohl fühlen</string>
     <string name="answer70b">Tote Person</string>
     <string name="answer70c">So gut wie tot sein</string>
     <string name="answer70d">Zubereiteter Fish</string>
 
-    <string name="question71">If you can run after two hares, you will catch neither</string>
-    <string name="answer71a">kein multitasking beherschen</string>
-    <string name="answer71b">ein schlechter Jäger sein</string>
-    <string name="answer71c">schnell aber tolpatschig sein</string>
-    <string name="answer71d">zu viel Zeit haben</string>
+    <string name="question71">If you run after two hares, you will catch neither</string>
+    <string name="answer71a">Kein multitasking beherrschen</string>
+    <string name="answer71b">Ein schlechter Jäger sein</string>
+    <string name="answer71c">Schnell, aber tollpatschig sein</string>
+    <string name="answer71d">Zu viel Zeit haben</string>
     
     <string name="question72">There are no flies on someone</string>
     <string name="answer72a">Jemand ist unschuldig</string>
@@ -470,34 +470,34 @@
     <string name="answer77d">Die Folgen des Dilemmas</string>
 
     <string name="question78">rat race</string>
-    <string name="answer78a">ständiger Konkurrenzkampf</string>
+    <string name="answer78a">Ständiger Konkurrenzkampf</string>
     <string name="answer78b">Rattenrennen</string>
     <string name="answer78c">immer auf dem Sprung sein</string>
-    <string name="answer78d">ein verlorener Kampf</string>
+    <string name="answer78d">Ein verlorener Kampf</string>
 
-    <string name="question79">to be as quiet as a mouse</string>
-    <string name="answer79a">mucksmäuschen still sein</string>
-    <string name="answer79b">so klein wie eine Maus sein</string>
-    <string name="answer79c">eine große Klappe haben</string>
+    <string name="question79">To be as quiet as a mouse</string>
+    <string name="answer79a">Mucksmäuschenstill sein</string>
+    <string name="answer79b">So klein wie eine Maus sein</string>
+    <string name="answer79c">Eine große Klappe haben</string>
     <string name="answer79d">im Hintergrund die Fäden ziehen</string>
 
-    <string name="question80">bear market</string>
-    <string name="answer80a">ein Aktienmarkt, der unvorhersehbar ist</string>
-    <string name="answer80b">ein Bärenmarkt</string>
-    <string name="answer80c">der Wochenmarkt</string>
-    <string name="answer80d">eine Aktiengesellschaft</string>
+    <string name="question80">Bear market</string>
+    <string name="answer80a">Ein Aktienmarkt, der unvorhersehbar ist</string>
+    <string name="answer80b">Ein Bärenmarkt</string>
+    <string name="answer80c">Der Wochenmarkt</string>
+    <string name="answer80d">Eine Aktiengesellschaft</string>
 
-    <string name="question81">to feather your own nest</string>
+    <string name="question81">To feather your own nest</string>
     <string name="answer81a">Geld für sich selbst ausgeben, obwohl es für etwas anderes bestimmt war</string>
     <string name="answer81b">Vögel großziehen</string>
-    <string name="answer81c">großzügig sein</string>
+    <string name="answer81c">Großzügig sein</string>
     <string name="answer81d">Frühjahresputz</string>
 
-    <string name="question82">flea pit</string>
-    <string name="answer82a">ein altes und dreckiges Theater oder Kino</string>
+    <string name="question82">Flea pit</string>
+    <string name="answer82a">Ein altes und dreckiges Theater oder Kino</string>
     <string name="answer82b">Flohgrube</string>
-    <string name="answer82c">ein sauberer und schöner Ort</string>
-    <string name="answer82d">ein kleines Loch</string>
+    <string name="answer82c">Ein sauberer und schöner Ort</string>
+    <string name="answer82d">Ein kleines Loch</string>
 
     <string name="question83">Curiosity killed the cat</string>
     <string name="answer83a">Neugier kann gefährlich sein</string>
@@ -521,7 +521,7 @@
     <string name="answer85c">Die Kanalisation</string>
     <string name="answer85d">Ein Rattenrennen</string>
 
-    <string name="question86">the tail is wagging the dog</string>
+    <string name="question86">The tail is wagging the dog</string>
     <string name="answer86a">Eine kleine, unwichtige Sache wird zu wichtig genommen</string>
     <string name="answer86b">Ein hyperaktiver Hund</string>
     <string name="answer86c">Etwas ist falsch herum aufgebaut</string>
@@ -533,16 +533,16 @@
     <string name="answer87c">Kriminelle, die trotz Wachhund einbrechen</string>
     <string name="answer87d">Eine Gruppe von Menschen, die ihr eigenes Ding machen</string>
 
-    <string name="question88">an odd / a queer fish</string>
-    <string name="answer88a">eine etwas eigenartige Person</string>
-    <string name="answer88b">ein regenbogenfarbener Fisch</string>
-    <string name="answer88c">ein nicht-binärer Fisch</string>
-    <string name="answer88d">ein schlecht schmeckender Fisch</string>
+    <string name="question88">An odd / a queer fish</string>
+    <string name="answer88a">Eine etwas eigenartige Person</string>
+    <string name="answer88b">Ein regenbogenfarbener Fisch</string>
+    <string name="answer88c">Ein nicht-binärer Fisch</string>
+    <string name="answer88d">Ein schlecht schmeckender Fisch</string>
 
-    <string name="question89">To make a pig’s ear out of something</string>
-    <string name="answer89a">etwas verpfuschen</string>
+    <string name="question89">To make a pig\'s ear out of something</string>
+    <string name="answer89a">Etwas verpfuschen</string>
     <string name="answer89b">Schweineohren backen</string>
-    <string name="answer89c">etwas beschönigen, spannender machen</string>
+    <string name="answer89c">Etwas beschönigen, spannender machen</string>
     <string name="answer89d">Sich von jemandem das Ohr leihen</string>
 
     <string name="question90">To play ducks and drakes</string>
@@ -558,16 +558,70 @@
     <string name="answer91d">In fahrt sein</string>
 
     <string name="question92">On the hoof</string>
-    <string name="answer92a">etwas nur mit halber Aufmerksamkeit machen</string>
-    <string name="answer92b">auf einem Podest stehen</string>
+    <string name="answer92a">Etwas nur mit halber Aufmerksamkeit machen</string>
+    <string name="answer92b">Auf einem Podest stehen</string>
     <string name="answer92c">Jemandem auf den Fuß treten</string>
     <string name="answer92d">Auf dem Bauernhof</string>
 
+    <string name="question93">To not harm/hurt a fly</string>
+    <string name="answer93a">Nett und sanft sein</string>
+    <string name="answer93b">Eine Langweilige Person sein</string>
+    <string name="answer93c">Eine Vegane Person</string>
+    <string name="answer93d">Jemand, der Angst vor Fliegen hat</string>
+
+    <string name="question94">To act the goat</string>
+    <string name="answer94a">Herumalbern</string>
+    <string name="answer94b">Sich wie ein wildes Tier verhalten</string>
+    <string name="answer94c">Ein Schauspieler, der eine Ziege spielt</string>
+    <string name="answer94d">Mit Ziegen auf einem Bauernhof spielen</string>
+
+    <string name="question95">Hawk-eyed</string>
+    <string name="answer95a">Eine Person die sehr genau auf Details achtet</string>
+    <string name="answer95b">Ein Kleptomane der Dinge zum stehlen sucht</string>
+    <string name="answer95c">Eine Person mit gelben Augen</string>
+    <string name="answer95d">Die Augen zusammenkneifen, um Dinge besser sehen zu können</string>
+
+    <string name="question96">Night owl</string>
+    <string name="answer96a">Eine Person, die gerne lange wach bleibt</string>
+    <string name="answer96b">Nachts Eulen beobachten</string>
+    <string name="answer96c">Eine Person, die Nachts sehr müde ist</string>
+    <string name="answer96d">Eine Eule, die nachts jagen geht</string>
+
+    <string name="question97">Crocodile tears</string>
+    <string name="answer97a">Dramatisiertes Heucheln</string>
+    <string name="answer97b">Die Tränen eines Krokodils</string>
+    <string name="answer97c">Weinen, nachdem einem Das Herz gebrochen wurde</string>
+    <string name="answer97d">Von einem guten Freund betrogen werden</string>
+
+    <string name="question98">Like a bat out of hell</string>
+    <string name="answer98a">Sehr schnell sein</string>
+    <string name="answer98b">Einen schlimmen Kater haben</string>
+    <string name="answer98c">Nach einem Albtraum aufwachen</string>
+    <string name="answer98d">Ein Mathelehrer</string>
+
+    <string name="question99">Cold fish </string>
+    <string name="answer99a">Eine Person, die unfreundlich und Emotionslos wirkt</string>
+    <string name="answer99b">Eine Mahlzeit am Weihnachtsabend</string>
+    <string name="answer99c">Ein Fisch, der nicht richtig zubereitet wurde</string>
+    <string name="answer99d">Eine Person die immer friert, auch wenn es draußen warm ist</string>
+
+    <string name="question100">Counting sheep</string>
+    <string name="answer100a">Eine Methode, um Kinder zum Schlafen zu bringen</string>
+    <string name="answer100b">Eine übliche Bibelpraxis</string>
+    <string name="answer100c">Ein Schäfer, der prüft, ob noch alle Schafe da sind</string>
+    <string name="answer100d">Ein Lehrer, der die Anwesenheit überprüft</string>
+
+    <string name="question101">To pull a rabbit out of the hat</string>
+    <string name="answer101a">Plötzlich eine Lösung zu einem Problem finden</string>
+    <string name="answer101b">Ein berühmter Magier sein</string>
+    <string name="answer101c">Seinen Klassenkameraden einen Trick zeigen</string>
+    <string name="answer101d">Einen Hasen als Haustier haben</string>
+
     //Vorlage
 
-    <string name="question">empty</string>
-    <string name="answera">empty</string>
-    <string name="answerb">empty</string>
-    <string name="answerc">empty</string>
-    <string name="answerd">empty</string>
+    <string name="question">Empty</string>
+    <string name="answera">Empty</string>
+    <string name="answerb">Empty</string>
+    <string name="answerc">Empty</string>
+    <string name="answerd">Empty</string>
 </resources>
