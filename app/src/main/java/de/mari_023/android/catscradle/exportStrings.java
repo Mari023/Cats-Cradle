@@ -1,4 +1,4 @@
-package de.mari_023.schule.catsCradle;
+package de.mari_023.android.catscradle;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
