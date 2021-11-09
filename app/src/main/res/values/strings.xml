@@ -617,6 +617,54 @@
     <string name="answer101c">Seinen Klassenkameraden einen Trick zeigen</string>
     <string name="answer101d">Einen Hasen als Haustier haben</string>
 
+    <string name="question102">Neither fish nor fowl</string>
+    <string name="answer102a">Weder das eine noch das andere</string>
+    <string name="answer102b">Vegetarier sein</string>
+    <string name="answer102c">Um Komplimenten betteln</string>
+    <string name="answer102d">Meerjungfrau</string>
+
+    <string name="question103">To rat at sth</string>
+    <string name="answer103a">Nicht an eine Absprache halten</string>
+    <string name="answer103b">Eine Ratte sehen</string>
+    <string name="answer103c">Jemandem einen Rat geben</string>
+    <string name="answer103d">Etwas erraten</string>
+
+    <string name="question104">Attack dog</string>
+    <string name="answer104a">Eine Person, die in der Öffentlichkeit oft starke persönliche Angriffe auf andere Menschen macht</string>
+    <string name="answer104b">Ein Hund für Tierkämpfe</string>
+    <string name="answer104c">Eine Person, die sich oft wie ein aggressiver Hund verhält</string>
+    <string name="answer104d">Ein Hund, der vom Militär eingesetzt wird</string>
+
+    <string name="question105">To have bigger fish to fry</string>
+    <string name="answer105a">Wichtigere Dinge zu tun haben</string>
+    <string name="answer105b">Ein berühmter Koch zu sein, der für seinen Fisch bekannt ist</string>
+    <string name="answer105c">Eine größere Portion essen zu wollen</string>
+    <string name="answer105d">Den größeren Fisch fangen als die Konkurrenz</string>
+
+    <string name="question106">Lap dog</string>
+    <string name="answer106a">Eine Person, die von einer anderen Person Kontrolliert wird</string>
+    <string name="answer106b">Eine Person, die gerne auf dem Schoß von jemandem sitzt</string>
+    <string name="answer106c">Ein süßer kleiner Hund</string>
+    <string name="answer106d">Ein sehr gehorsames Tier</string>
+
+    <string name="question107">To lock the stable door after the horse has bolted</string>
+    <string name="answer107a">Vorkehrungen treffen, nachdem Schaden entstanden ist</string>
+    <string name="answer107b">Vorkehrungen treffen, nachdem etwas gestohlen wurde</string>
+    <string name="answer107c">Jemanden gefangen nehmen</string>
+    <string name="answer107d">Ein verantwortungsvoller Landwirt sein</string>
+
+    <string name="question108">Empty</string>
+    <string name="answer108a">Empty</string>
+    <string name="answer108b">Empty</string>
+    <string name="answer108c">Empty</string>
+    <string name="answer108d">Empty</string>
+
+    <string name="question109">Empty</string>
+    <string name="answer109a">Empty</string>
+    <string name="answer109b">Empty</string>
+    <string name="answer109c">Empty</string>
+    <string name="answer109d">Empty</string>
+
     //Vorlage
 
     <string name="question">Empty</string>

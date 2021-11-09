@@ -15,7 +15,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final int questions = 102;
+    public static final int questions = 108;
     public static SharedPreferences sharedpreferences;
     Storage storage;
     private Button answerA, answerB, answerC, answerD;
