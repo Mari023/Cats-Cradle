@@ -86,10 +86,10 @@ public class Storage {
         lastQuestions[lastQuestionPosition] = i;
         lastQuestionPosition++;
         StringBuilder lastQ = new StringBuilder();
-        for(int j = 0; j < lastQuestions.length; j++) {
-            lastQ.append(lastQuestions[i]).append(",");
+        for(int lastQuestion : lastQuestions) {
+            lastQ.append(lastQuestion).append(",");
         }
-        lastQ.deleteCharAt(lastQ.length());
+        lastQ.deleteCharAt(lastQ.length() - 1);
         MainActivity.sharedpreferences.edit().putString("questionNumber", lastQ.toString()).apply();
         MainActivity.sharedpreferences.edit().putInt("questionNumber", lastQuestionPosition).apply();
     }
