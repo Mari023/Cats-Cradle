@@ -653,17 +653,24 @@
     <string name="answer107c">Jemanden gefangen nehmen</string>
     <string name="answer107d">Ein verantwortungsvoller Landwirt sein</string>
 
-    <string name="question108">Empty</string>
-    <string name="answer108a">Empty</string>
-    <string name="answer108b">Empty</string>
-    <string name="answer108c">Empty</string>
-    <string name="answer108d">Empty</string>
+    <string name="question108">Overdog</string>
+    <string name="answer108a">Eine Person mit großem Vorteil</string>
+    <string name="answer108b">Der Alpha / Anführer einer Gruppe</string>
+    <string name="answer108c">Ein Hund, der sich über einen kleineren Hund stellt, um ihn vor Regen zu beschützen
+    </string>
+    <string name="answer108d">Jemand, der sehr von sich selbst überzeugt ist</string>
 
-    <string name="question109">Empty</string>
-    <string name="answer109a">Empty</string>
-    <string name="answer109b">Empty</string>
-    <string name="answer109c">Empty</string>
-    <string name="answer109d">Empty</string>
+    <string name="question109">The lion\'s den</string>
+    <string name="answer109a">Eine schwierige Situation mit unfreundlichen oder aggressiven Menschen</string>
+    <string name="answer109b">Das Löwengehege im Zoo</string>
+    <string name="answer109c">Matheunterricht</string>
+    <string name="answer109d">Ein Kinderspiel, bei dem man vor dem „bösen Löwen“ weg rennen muss</string>
+
+    <string name="question110">Cat\'s cradle</string>
+    <string name="answer110a">Fingertwist</string>
+    <string name="answer110b">Wenn sich eine Katze in einem Wollknäuel verknotet hat</string>
+    <string name="answer110c">Ein Spielzeug für Katzen</string>
+    <string name="answer110d">Total verhedderte Kabel (z.B. bei Kopfhörern)</string>
 
     //Vorlage
 
