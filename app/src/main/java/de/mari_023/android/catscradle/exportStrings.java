@@ -15,12 +15,12 @@ public class exportStrings {
         Document document = db.parse(new File("F:/IdeaProjects/Cats-Cradle/app/src/main/res/values/strings.xml"));
         NodeList nodeList = document.getElementsByTagName("string");
         HashMap<String, String> strings = new HashMap<>();
-        for (int x = 0, size = nodeList.getLength(); x < size; x++) {
+        for(int x = 0, size = nodeList.getLength(); x < size; x++) {
             String id = nodeList.item(x).getAttributes().getNamedItem("name").getNodeValue();
             String value = nodeList.item(x).getFirstChild().getNodeValue();
             strings.put(id, value);
         }
-        for (int i = 0; i < 102; i++) {
+        for(int i = 0; i < 102; i++) {
             String question = strings.get("question" + i);
             String answerA = strings.get("answer" + i + "a");
             String answerB = strings.get("answer" + i + "b");

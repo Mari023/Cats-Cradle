@@ -1,6 +1,5 @@
 package de.mari_023.android.catscradle;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class Storage {
@@ -15,18 +14,17 @@ public class Storage {
         score = MainActivity.sharedpreferences.getInt("score", 0);
         highscore = MainActivity.sharedpreferences.getInt("highscore", 0);
         questionNumber = MainActivity.sharedpreferences.getInt("questionNumber", -1);
-        String[] lastQ = (String[]) MainActivity.sharedpreferences.getString("lastQuestions", "").split(",");
-        for (int i = 0; i < lastQ.length && i < lastQuestions.length; i++) {
+        String[] lastQ = MainActivity.sharedpreferences.getString("lastQuestions", "").split(",");
+        for(int i = 0; i < lastQ.length && i < lastQuestions.length; i++) {
             try {
                 lastQuestions[i] = Integer.parseInt(lastQ[i]);
-            } catch (Exception ignored) {
-            }
+            } catch(Exception ignored) {}
         }
         lastQuestionPosition = MainActivity.sharedpreferences.getInt("lastQuestionPosition", 0);
     }
 
     public static Storage getStorage() {
-        if (INSTANCE == null) return INSTANCE = new Storage();
+        if(INSTANCE == null) return INSTANCE = new Storage();
         return INSTANCE;
     }
 
@@ -34,8 +32,13 @@ public class Storage {
         int id;
         do {
             id = new Random().nextInt(MainActivity.questions);
-        } while (Arrays.stream(lastQuestions).anyMatch(x -> x == id));
+        } while(arrayContains(lastQuestions, id));
         return id;
+    }
+
+    private boolean arrayContains(int[] array, int contain) {
+        for(int i : array) if(i == contain) return true;
+        return false;
     }
 
     public int getScore() {
@@ -53,7 +56,7 @@ public class Storage {
 
     public void increaseScore() {
         int s = setScore(getScore() + 1);
-        if (s > getHighScore()) setHighScore(s);
+        if(s > getHighScore()) setHighScore(s);
     }
 
     public int getHighScore() {
@@ -71,7 +74,7 @@ public class Storage {
 
     private int setQuestionNumber(int questionNumber) {
         MainActivity.sharedpreferences.edit().putInt("questionNumber", questionNumber).apply();
-        if (questionNumber != -1) setLastQuestion(questionNumber);
+        if(questionNumber != -1) setLastQuestion(questionNumber);
         return this.questionNumber = questionNumber;
     }
 
@@ -83,7 +86,7 @@ public class Storage {
         lastQuestions[lastQuestionPosition] = i;
         lastQuestionPosition++;
         StringBuilder lastQ = new StringBuilder();
-        for (int j = 0; j < lastQuestions.length; j++) {
+        for(int j = 0; j < lastQuestions.length; j++) {
             lastQ.append(lastQuestions[i]).append(",");
         }
         lastQ.deleteCharAt(lastQ.length());

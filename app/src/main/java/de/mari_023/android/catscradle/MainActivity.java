@@ -4,7 +4,6 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
@@ -48,30 +47,10 @@ public class MainActivity extends AppCompatActivity {
 
         setup(storage.getQuestionNumber());
 
-        answerA.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                MainActivity.this.onClick(answerA, Answer.ANSWERA);
-            }
-        });
-        answerB.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                MainActivity.this.onClick(answerB, Answer.ANSWERB);
-            }
-        });
-        answerC.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                MainActivity.this.onClick(answerC, Answer.ANSWERC);
-            }
-        });
-        answerD.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                MainActivity.this.onClick(answerD, Answer.ANSWERD);
-            }
-        });
+        answerA.setOnClickListener(view -> MainActivity.this.onClick(answerA, Answer.ANSWERA));
+        answerB.setOnClickListener(view -> MainActivity.this.onClick(answerB, Answer.ANSWERB));
+        answerC.setOnClickListener(view -> MainActivity.this.onClick(answerC, Answer.ANSWERC));
+        answerD.setOnClickListener(view -> MainActivity.this.onClick(answerD, Answer.ANSWERD));
     }
 
     private void onClick(Button button, Answer answer) {
