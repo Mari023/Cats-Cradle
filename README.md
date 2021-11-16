@@ -1,2 +1,2 @@
 # Cats-Cradle
-Die aktuelle Version kann immer unter "Actions" runterladen
+Die aktuelle Version kann immer unter "Actions" herunterladen
