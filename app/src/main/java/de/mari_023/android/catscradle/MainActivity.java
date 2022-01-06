@@ -60,9 +60,27 @@ public class MainActivity extends AppCompatActivity {
             done = true;
             storage.resetQuestionNumber();
             storage.increaseScore();
+            refreshScore();
         } else {
             button.setBackgroundColor(Color.RED);
+            switch(correct) {
+                case ANSWERA:
+                    answerA.setBackgroundColor(Color.YELLOW);
+                    break;
+                case ANSWERB:
+                    answerB.setBackgroundColor(Color.YELLOW);
+                    break;
+                case ANSWERC:
+                    answerC.setBackgroundColor(Color.YELLOW);
+                    break;
+                case ANSWERD:
+                    answerD.setBackgroundColor(Color.YELLOW);
+                    break;
+            }
+            done = true;
+            storage.resetQuestionNumber();
             storage.resetScore();
+            refreshScore();
         }
     }
 
@@ -85,7 +103,10 @@ public class MainActivity extends AppCompatActivity {
         answerB.setBackgroundColor(Color.LTGRAY);
         answerC.setBackgroundColor(Color.LTGRAY);
         answerD.setBackgroundColor(Color.LTGRAY);
+        refreshScore();
+    }
 
+    private void refreshScore() {
         score.setText("Score: " + storage.getScore());
         highscore.setText("Highscore: " + storage.getHighScore());
     }
