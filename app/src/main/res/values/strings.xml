@@ -675,8 +675,8 @@
     <string name="question111">A leopard cannot change its spots</string>
     <string name="answer111a">A person can\'t change their character</string>
     <string name="answer111b">People don\'t like to move</string>
-    <string name="answer11c">People don\'t like change</string>
-    <string name="answer11d">People don\'t like safaris</string>
+    <string name="answer111c">People don\'t like change</string>
+    <string name="answer111d">People don\'t like safaris</string>
 
     <string name="question112">Heads or tail</string>
     <string name="answer112a">Kopf oder Zahl beim Münzwurf</string>
@@ -690,47 +690,47 @@
     <string name="answer113c">Ein Wespennest</string>
     <string name="answer113d">Eine glückserfüllte Situation</string>
 
-    <string name="question113">To run around like a headless chicken</string>
-    <string name="answer113a">Panik schieben obwohl nachdenken angesagt ist</string>
-    <string name="answer113b">Wenn man sich auf den Truthahn an Thanksgiving freut</string>
-    <string name="answer113c">Jeden Tag Hühnchen essen</string>
-    <string name="answer113d">Besonders schnell laufen</string>
+    <string name="question114">To run around like a headless chicken</string>
+    <string name="answer114a">Panik schieben obwohl nachdenken angesagt ist</string>
+    <string name="answer114b">Wenn man sich auf den Truthahn an Thanksgiving freut</string>
+    <string name="answer114c">Jeden Tag Hühnchen essen</string>
+    <string name="answer114d">Besonders schnell laufen</string>
 
-    <string name="question114">Straight from the horse\'s mouth</string>
-    <string name="answer114a">Etwas aus direkter Quelle erfahren</string>
-    <string name="answer114b">Mit einem Pferd reden</string>
-    <string name="answer114c">Pferde Futter essen</string>
-    <string name="answer114d">Zu viel Überflüssiges berichten</string>
+    <string name="question115">Straight from the horse\'s mouth</string>
+    <string name="answer115a">Etwas aus direkter Quelle erfahren</string>
+    <string name="answer115b">Mit einem Pferd reden</string>
+    <string name="answer115c">Pferde Futter essen</string>
+    <string name="answer115d">Zu viel Überflüssiges berichten</string>
 
-    <string name="question115">To pull your horns in</string>
-    <string name="answer115a">Vorsichtiger sein als zuvor</string>
-    <string name="answer115b">Diplomatisch sein</string>
-    <string name="answer115c">Zu nett sein</string>
-    <string name="answer115d">Angst bekommen</string>
+    <string name="question116">To pull your horns in</string>
+    <string name="answer116a">Vorsichtiger sein als zuvor</string>
+    <string name="answer116b">Diplomatisch sein</string>
+    <string name="answer116c">Zu nett sein</string>
+    <string name="answer116d">Angst bekommen</string>
 
-    <string name="question116">To be as stubborn as a mule</string>
-    <string name="answer116a">Sehr stur sein</string>
-    <string name="answer116b">Kaum stur sein</string>
-    <string name="answer116c">Unter dem Sternzeichen Stier geboren sein</string>
-    <string name="answer116d">Sehr zielstrebig sein</string>
+    <string name="question117">To be as stubborn as a mule</string>
+    <string name="answer117a">Sehr stur sein</string>
+    <string name="answer117b">Kaum stur sein</string>
+    <string name="answer117c">Unter dem Sternzeichen Stier geboren sein</string>
+    <string name="answer117d">Sehr zielstrebig sein</string>
 
-    <string name="question117">To feed somebody to the lions</string>
-    <string name="answer117a">Jemanden zwingen, etwas gefährliches oder unangenehmes zu tun</string>
-    <string name="answer117b">Jemanden wilden Tieren verfüttern</string>
-    <string name="answer117c">Jemanden auf eine Safari schicken</string>
-    <string name="answer117d">Bei „Die Höhle der Löwen“ mitmachen</string>
+    <string name="question118">To feed somebody to the lions</string>
+    <string name="answer118a">Jemanden zwingen, etwas gefährliches oder unangenehmes zu tun</string>
+    <string name="answer118b">Jemanden wilden Tieren verfüttern</string>
+    <string name="answer118c">Jemanden auf eine Safari schicken</string>
+    <string name="answer118d">Bei „Die Höhle der Löwen“ mitmachen</string>
 
-    <string name="question118">To kill the goose that lays the golden eggs</string>
-    <string name="answer118a">Etwas zerstören, was einem Wohlstand bringt</string>
-    <string name="answer118b">Etwas zerstören, was Eier legt</string>
-    <string name="answer118c">Etwas zerstören, das einem schädigt</string>
-    <string name="answer118d">Eine Gans schlachten</string>
+    <string name="question119">To kill the goose that lays the golden eggs</string>
+    <string name="answer119a">Etwas zerstören, was einem Wohlstand bringt</string>
+    <string name="answer119b">Etwas zerstören, was Eier legt</string>
+    <string name="answer119c">Etwas zerstören, das einem schädigt</string>
+    <string name="answer119d">Eine Gans schlachten</string>
 
-    <string name="question119">To get the bug</string>
-    <string name="answer119a">Ein Interesse and Käfern haben</string>
-    <string name="answer119b">Sich für etwas interessieren</string>
-    <string name="answer119c">Kopfläuse bekommen</string>
-    <string name="answer119d">Einen Käfer fangen</string>
+    <string name="question120">To get the bug</string>
+    <string name="answer120a">Ein Interesse and Käfern haben</string>
+    <string name="answer120b">Sich für etwas interessieren</string>
+    <string name="answer120c">Kopfläuse bekommen</string>
+    <string name="answer120d">Einen Käfer fangen</string>
 
     //Vorlage
 
