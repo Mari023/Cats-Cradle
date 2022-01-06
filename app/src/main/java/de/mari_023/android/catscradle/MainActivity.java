@@ -3,6 +3,7 @@ package de.mari_023.android.catscradle;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Color;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
@@ -39,7 +40,8 @@ public class MainActivity extends AppCompatActivity {
         score = findViewById(R.id.score);
         highscore = findViewById(R.id.highscore);
 
-        question.setTextSize(22);
+        question.setTextSize(30);
+        question.setTypeface(question.getTypeface(), Typeface.BOLD);
         answerA.setTextSize(20);
         answerB.setTextSize(20);
         answerC.setTextSize(20);
