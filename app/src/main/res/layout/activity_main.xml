@@ -23,45 +23,54 @@
             app:layout_constraintBottom_toTopOf="@+id/score_higher"/>
     <Button
             android:text="@string/answer0d"
-            android:layout_width="250dp"
-            android:layout_height="100dp" android:id="@+id/answerD"
+            android:layout_width="0dp"
+            android:layout_height="0dp" android:id="@+id/answerD"
             tools:visibility="visible" android:visibility="visible"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="@+id/guideline7"/>
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="@+id/guideline7"
+            android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"/>
     <Button
             android:text="@string/answer0c"
-            android:layout_width="250dp"
-            android:layout_height="100dp" android:id="@+id/answerC"
+            android:layout_width="0dp"
+            android:layout_height="0dp" android:id="@+id/answerC"
             tools:visibility="visible" android:visibility="visible"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintBottom_toTopOf="@+id/guideline7" app:layout_constraintTop_toTopOf="@+id/guideline5"/>
+            app:layout_constraintBottom_toTopOf="@+id/guideline7" app:layout_constraintTop_toTopOf="@+id/guideline5"
+            android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"/>
     <Button
             android:text="@string/answer0b"
-            android:layout_width="250dp"
-            android:layout_height="100dp" android:id="@+id/answerB"
+            android:layout_width="0dp"
+            android:layout_height="0dp" android:id="@+id/answerB"
             tools:visibility="visible" android:visibility="visible"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintBottom_toTopOf="@+id/guideline5" app:layout_constraintTop_toTopOf="@+id/guideline6"/>
+            app:layout_constraintBottom_toTopOf="@+id/guideline5" app:layout_constraintTop_toTopOf="@+id/guideline6"
+            android:layout_marginTop="10dp" android:layout_marginStart="10dp" android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"/>
     <Button
             android:text="@string/answer0a"
-            android:layout_width="250dp"
-            android:layout_height="100dp" android:id="@+id/answerA"
+            android:layout_width="0dp"
+            android:layout_height="0dp" android:id="@+id/answerA"
             tools:visibility="visible" android:visibility="visible"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintBottom_toTopOf="@+id/guideline6" app:layout_constraintTop_toTopOf="@+id/guideline4"/>
+            app:layout_constraintBottom_toTopOf="@+id/guideline6" app:layout_constraintTop_toTopOf="@+id/guideline4"
+            android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"/>
     <TextView
             android:text="@string/question0"
-            android:layout_width="250dp"
-            android:layout_height="200dp"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:gravity="center"
             android:id="@+id/question"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintBottom_toTopOf="@+id/guideline4" app:layout_constraintTop_toTopOf="parent"/>
+            app:layout_constraintBottom_toTopOf="@+id/guideline4" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginStart="100dp" android:layout_marginEnd="100dp"/>
     <androidx.constraintlayout.widget.Guideline android:layout_width="wrap_content" android:layout_height="wrap_content"
                                                 android:id="@+id/guideline4"
                                                 android:orientation="horizontal"
