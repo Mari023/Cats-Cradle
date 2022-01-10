@@ -9,19 +9,8 @@ public class Storage {
     private int questionNumber;
     private final int[] lastQuestions = new int[50];
     private int lastQuestionPosition;
-
-    private Storage() {
-        score = MainActivity.sharedpreferences.getInt("score", 0);
-        highscore = MainActivity.sharedpreferences.getInt("highscore", 0);
-        questionNumber = MainActivity.sharedpreferences.getInt("questionNumber", -1);
-        String[] lastQ = MainActivity.sharedpreferences.getString("lastQuestions", "").split(",");
-        for(int i = 0; i < lastQ.length && i < lastQuestions.length; i++) {
-            try {
-                lastQuestions[i] = Integer.parseInt(lastQ[i]);
-            } catch(Exception ignored) {}
-        }
-        lastQuestionPosition = MainActivity.sharedpreferences.getInt("lastQuestionPosition", 0);
-    }
+    private int tutorialState;
+    private Tutorial tutorial;
 
     public static Storage getStorage() {
         if(INSTANCE == null) return INSTANCE = new Storage();
@@ -92,5 +81,32 @@ public class Storage {
         lastQ.deleteCharAt(lastQ.length() - 1);
         MainActivity.sharedpreferences.edit().putString("questionNumber", lastQ.toString()).apply();
         MainActivity.sharedpreferences.edit().putInt("questionNumber", lastQuestionPosition).apply();
+    }
+
+    private Storage() {
+        score = MainActivity.sharedpreferences.getInt("score", 0);
+        highscore = MainActivity.sharedpreferences.getInt("highscore", 0);
+        questionNumber = MainActivity.sharedpreferences.getInt("questionNumber", -1);
+        String[] lastQ = MainActivity.sharedpreferences.getString("lastQuestions", "").split(",");
+        for(int i = 0; i < lastQ.length && i < lastQuestions.length; i++) {
+            try {
+                lastQuestions[i] = Integer.parseInt(lastQ[i]);
+            } catch(Exception ignored) {}
+        }
+        lastQuestionPosition = MainActivity.sharedpreferences.getInt("lastQuestionPosition", 0);
+        tutorialState = MainActivity.sharedpreferences.getInt("tutorialState", 0);
+    }
+
+    public Tutorial getTutorial() {
+        return tutorial == null ? tutorial = new Tutorial(this) : tutorial;
+    }
+
+    public int getTutorialState() {
+        return tutorialState;
+    }
+
+    public int setTutorialState(int state) {
+        MainActivity.sharedpreferences.edit().putInt("tutorialState", tutorialState).apply();
+        return this.tutorialState = state;
     }
 }

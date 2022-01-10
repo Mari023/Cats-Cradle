@@ -1,6 +1,22 @@
 <resources>
     <string name="app_name">Cat\'s Cradle</string>
 
+    <string name="tutorial_0">Das ist die gefragte Redewendung</string>
+    <string name="tutorial_1">Das sind die Erklärungen oder Übersetzungen.\n
+        Nur eine ist richtig, die anderen 3 sind falsch.\n
+        Tippe die richtige Antwort an.
+    </string>
+    <string name="tutorial_2">Wenn du die richtige Antwort gewählt hast, leuchtet die Antwort grün.</string>
+    <string name="tutorial_3">Hast du die falsche Antwort gewählt, leuchtet sie rot und die richtige Antwort wird in
+        gelb gezeigt.
+    </string>
+    <string name="tutorial_4">Hier wird angezeigt, wie viele Redewendung du hintereinander richtig erkannt hast.
+    </string>
+    <string name="tutorial_5">Hier wir dein Rekord an hintereinander richtig beantworteten Redewendungen angezeigt.
+    </string>
+    <string name="tutorial_6">Viel Spaß! :)</string>
+
+
     <string name="question0">It\'s raining cats and dogs</string>
     <string name="answer0a">Es regnet sehr stark</string>
     <string name="answer0b">Viele verschiedene Dinge passieren gleichzeitig</string>
@@ -56,7 +72,9 @@
     <string name="answer8d">Um möglichst produktiv zu sein, sollte man morgens rechtzeitig aufstehen</string>
 
     <string name="question9">There are plenty other fish in the sea</string>
-    <string name="answer9a">Auf der Erde gibt es genügend Menschen/Dinge, die genauso toll/gut sein können wie der oder das, was man verloren hat</string>
+    <string name="answer9a">Auf der Erde gibt es genügend Menschen/Dinge, die genauso toll/gut sein können wie der oder
+        das, was man verloren hat
+    </string>
     <string name="answer9b">Es gibt genügend andere Fische im Meer</string>
     <string name="answer9c">Fische werden nie ausgehen im Meer</string>
     <string name="answer9d">Das Meer besteht nicht nur aus einer einzigen Fischart</string>
@@ -303,8 +321,8 @@
 
     <string name="question50">Keep the wolf from the door</string>
     <string name="answer50a">Sich gerade so über Wasser halten</string>
-    <string name="answer50b">in Sicherheit leben</string>
-    <string name="answer50c">nicht auf Betrüger hereinfallen</string>
+    <string name="answer50b">In Sicherheit leben</string>
+    <string name="answer50c">Nicht auf Betrüger hereinfallen</string>
     <string name="answer50d">Als Einsiedler leben</string>
 
     <string name="question51">A wolf in sheep\'s clothing</string>
@@ -432,31 +450,31 @@
     <string name="answer71b">Ein schlechter Jäger sein</string>
     <string name="answer71c">Schnell, aber tollpatschig sein</string>
     <string name="answer71d">Zu viel Zeit haben</string>
-    
+
     <string name="question72">There are no flies on someone</string>
     <string name="answer72a">Jemand ist unschuldig</string>
     <string name="answer72b">Jemand ist nicht leicht reinzulegen</string>
     <string name="answer72c">Jemand, der makellos wirkt</string>
     <string name="answer72d">Jemand, der keiner Fliege was zu Leide tut</string>
-    
+
     <string name="question73">To not mince your words</string>
     <string name="answer73a">Etwas direkt sagen, auch wenn es andere verletzt</string>
     <string name="answer73b">Den Worten keinen Glauben schenken</string>
     <string name="answer73c">Nicht jedes Wort auf die Goldwaage legen</string>
     <string name="answer73d">Reden, bevor man denkt</string>
-    
+
     <string name="question74">If wishes were horses, beggars would ride</string>
     <string name="answer74a">Nur weil man sich etwas wünscht, geschieht es nicht unbedingt</string>
     <string name="answer74b">Könnte man alles, wäre es nichts Besonderes</string>
     <string name="answer74c">Den Erfolg erkämpfen zu müssen</string>
     <string name="answer74d">Nicht jeder ist gleich</string>
-    
+
     <string name="question75">He\'s got kangaroos loose in his top paddock</string>
     <string name="answer75a">Nicht mehr alle Tassen im Schrank haben</string>
     <string name="answer75b">Ein Loch in der Hose haben</string>
     <string name="answer75c">Von etwas zu viel haben</string>
     <string name="answer75d">Ein Verräter sein</string>
-    
+
     <string name="question76">Ants in your pants</string>
     <string name="answer76a">Nicht stillsitzen können</string>
     <string name="answer76b">Sich in die Hose machen</string>
@@ -599,7 +617,7 @@
     <string name="answer98c">Nach einem Albtraum aufwachen</string>
     <string name="answer98d">Ein Mathelehrer</string>
 
-    <string name="question99">Cold fish </string>
+    <string name="question99">Cold fish</string>
     <string name="answer99a">Eine Person, die unfreundlich und Emotionslos wirkt</string>
     <string name="answer99b">Eine Mahlzeit am Weihnachtsabend</string>
     <string name="answer99c">Ein Fisch, der nicht richtig zubereitet wurde</string>
@@ -630,7 +648,9 @@
     <string name="answer103d">Etwas erraten</string>
 
     <string name="question104">Attack dog</string>
-    <string name="answer104a">Eine Person, die in der Öffentlichkeit oft starke persönliche Angriffe auf andere Menschen macht</string>
+    <string name="answer104a">Eine Person, die in der Öffentlichkeit oft starke persönliche Angriffe auf andere Menschen
+        macht
+    </string>
     <string name="answer104b">Ein Hund für Tierkämpfe</string>
     <string name="answer104c">Eine Person, die sich oft wie ein aggressiver Hund verhält</string>
     <string name="answer104d">Ein Hund, der vom Militär eingesetzt wird</string>

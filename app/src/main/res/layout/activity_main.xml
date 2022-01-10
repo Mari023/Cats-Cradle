@@ -5,47 +5,47 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity" android:id="@+id/quiz" android:visibility="visible"
+        tools:context=".MainActivity" android:id="@+id/activity_main" android:visibility="visible"
         tools:visibility="visible">
     <TextView
-            android:text="score"
+            android:text="Score: 0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" android:id="@+id/score"
             app:layout_constraintEnd_toStartOf="@+id/question" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toTopOf="@+id/score_lower"
             app:layout_constraintTop_toTopOf="@+id/score_higher"/>
     <TextView
-            android:text="Highscore"
+            android:text="Highscore: 0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" android:id="@+id/highscore"
             app:layout_constraintEnd_toStartOf="@+id/question" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toTopOf="@+id/score_higher"/>
-    <Button
-            android:text="@string/answer0d"
+    <TextView
+            android:text="@string/question0"
             android:layout_width="0dp"
-            android:layout_height="0dp" android:id="@+id/answerD"
-            tools:visibility="visible" android:visibility="visible"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="@+id/guideline7"
-            android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
-            android:layout_marginBottom="10dp"/>
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:id="@+id/question"
+            android:textSize="30sp"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/guideline4" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginStart="100dp" android:layout_marginEnd="100dp"/>
     <Button
-            android:text="@string/answer0c"
+            android:text="@string/answer0a"
             android:layout_width="0dp"
-            android:layout_height="0dp" android:id="@+id/answerC"
-            tools:visibility="visible" android:visibility="visible"
+            android:layout_height="0dp" android:id="@+id/answerA"
+            android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintBottom_toTopOf="@+id/guideline7" app:layout_constraintTop_toTopOf="@+id/guideline5"
+            app:layout_constraintBottom_toTopOf="@+id/guideline6" app:layout_constraintTop_toTopOf="@+id/guideline4"
             android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"/>
     <Button
             android:text="@string/answer0b"
             android:layout_width="0dp"
             android:layout_height="0dp" android:id="@+id/answerB"
-            tools:visibility="visible" android:visibility="visible"
+            android:textSize="20sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -53,24 +53,25 @@
             android:layout_marginTop="10dp" android:layout_marginStart="10dp" android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"/>
     <Button
-            android:text="@string/answer0a"
+            android:text="@string/answer0c"
             android:layout_width="0dp"
-            android:layout_height="0dp" android:id="@+id/answerA"
-            tools:visibility="visible" android:visibility="visible"
+            android:layout_height="0dp" android:id="@+id/answerC"
+            android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintBottom_toTopOf="@+id/guideline6" app:layout_constraintTop_toTopOf="@+id/guideline4"
+            app:layout_constraintBottom_toTopOf="@+id/guideline7" app:layout_constraintTop_toTopOf="@+id/guideline5"
             android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"/>
-    <TextView
-            android:text="@string/question0"
+    <Button
+            android:text="@string/answer0d"
             android:layout_width="0dp"
-            android:layout_height="0dp"
-            android:gravity="center"
-            android:id="@+id/question"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintBottom_toTopOf="@+id/guideline4" app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginStart="100dp" android:layout_marginEnd="100dp"/>
+            android:layout_height="0dp" android:id="@+id/answerD"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="@+id/guideline7"
+            android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"/>
     <androidx.constraintlayout.widget.Guideline android:layout_width="wrap_content" android:layout_height="wrap_content"
                                                 android:id="@+id/guideline4"
                                                 android:orientation="horizontal"
@@ -103,5 +104,93 @@
                                                 android:id="@+id/score_higher"
                                                 android:orientation="horizontal"
                                                 app:layout_constraintGuide_percent="0.125"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_0"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.5" app:layout_constraintEnd_toStartOf="@+id/question"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="1.0"
+            android:rotation="180" android:visibility="invisible" tools:visibility="invisible"
+            android:translationZ="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/question"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_1A"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/answerA"
+            app:layout_constraintVertical_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            android:translationZ="10dp"
+            android:rotation="270" android:visibility="invisible" tools:visibility="invisible"
+            app:layout_constraintHorizontal_bias="0.7" app:layout_constraintEnd_toEndOf="parent"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_1B"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/answerB"
+            app:layout_constraintVertical_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            android:translationZ="10dp"
+            android:rotation="270" android:visibility="invisible" tools:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.3"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_1C"
+            app:layout_constraintBottom_toTopOf="@+id/answerC"
+            app:layout_constraintStart_toStartOf="parent"
+            android:rotation="270" android:visibility="invisible" tools:visibility="invisible"
+            android:translationZ="10dp"
+            app:layout_constraintVertical_bias="1.0" app:layout_constraintHorizontal_bias="0.8"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_1D"
+            app:layout_constraintBottom_toTopOf="@+id/answerD"
+            app:layout_constraintVertical_bias="1.0"
+            app:layout_constraintHorizontal_bias="0.2"
+            android:rotation="270" android:visibility="invisible" tools:visibility="invisible"
+            android:translationZ="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_4"
+            app:layout_constraintTop_toTopOf="@+id/score"
+            app:layout_constraintHorizontal_bias="0.0"
+            android:visibility="invisible" tools:visibility="invisible"
+            android:translationZ="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/score" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/score"/>
+    <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp" app:srcCompat="@drawable/ic_arrow_left" android:id="@+id/arrow_tutorial_5"
+            app:layout_constraintTop_toTopOf="@+id/highscore"
+            app:layout_constraintHorizontal_bias="0.0"
+            android:visibility="invisible" tools:visibility="invisible"
+            android:translationZ="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/highscore" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/highscore"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/tutorial_upper"
+            android:background="#DDAAAAAA"
+            android:textSize="40sp"
+            android:translationZ="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/question"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" tools:visibility="invisible" android:visibility="invisible"
+            android:layout_marginStart="10dp" android:layout_marginTop="10dp" android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/tutorial_lower"
+            android:background="#DDAAAAAA"
+            android:textSize="40sp"
+            android:translationZ="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" tools:visibility="invisible" android:visibility="invisible"
+            app:layout_constraintTop_toBottomOf="@+id/question" android:layout_marginBottom="10dp"
+            android:layout_marginEnd="10dp" android:layout_marginTop="10dp" android:layout_marginStart="10dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
