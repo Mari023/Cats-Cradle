@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         sharedpreferences = getSharedPreferences("CatsCradle", Context.MODE_PRIVATE);
         storage = Storage.getStorage();
 
+        storage.setTutorialState(0);
         tutorial = storage.getTutorial();
         answerA = findViewById(R.id.answerA);
         answerB = findViewById(R.id.answerB);
