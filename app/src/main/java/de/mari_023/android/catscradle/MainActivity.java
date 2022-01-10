@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     private Answer correct;
     private boolean done;
     private Tutorial tutorial;
-    private View mainView;
     private TextView tutorialLower, tutorialUpper;
     private ImageView arrow0, arrow1A, arrow1B, arrow1C, arrow1D, arrow4, arrow5;
 
@@ -39,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
         storage = Storage.getStorage();
 
         tutorial = storage.getTutorial();
-        mainView = findViewById(R.id.activity_main);
         answerA = findViewById(R.id.answerA);
         answerB = findViewById(R.id.answerB);
         answerC = findViewById(R.id.answerC);
@@ -64,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         answerB.setOnClickListener(view -> MainActivity.this.onClick(answerB, Answer.ANSWERB));
         answerC.setOnClickListener(view -> MainActivity.this.onClick(answerC, Answer.ANSWERC));
         answerD.setOnClickListener(view -> MainActivity.this.onClick(answerD, Answer.ANSWERD));
-        mainView.setOnClickListener(v -> setupTutorial(tutorial.click()));
+        findViewById(R.id.activity_main).setOnClickListener(v -> setupTutorial(tutorial.click()));
     }
 
     private void onClick(Button button, Answer answer) {
